@@ -2,7 +2,7 @@
 display_name: O'Korion
 nickname: Okorion
 summary: TikTok persona EagleBeak has observed over time and dissected with Rook — the "Oracle" he judged a counterfeit ministry; Rook keeps a standing case file ("sentry's log") on it.
-rank: 26
+rank: 27
 updated: 2026-10-07
 ---
 
