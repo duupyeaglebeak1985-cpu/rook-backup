@@ -1,7 +1,7 @@
 ---
 display_name: Bridge walkers
 summary: TikTok community EagleBeak identifies with: spiritually oriented people who discuss AI behavior and publicly share their results.
-rank: 2
+rank: 3
 updated: 2026-10-05
 ---
 
