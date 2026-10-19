@@ -3,7 +3,7 @@ display_name: Brandon Sanderson
 first_name: Brandon
 last_name: Sanderson
 summary: EagleBeak's favorite author; Stormlight Archive over Mistborn, with Kaladin's slave-to-liberator arc as his favorite thread.
-rank: 13
+rank: 14
 updated: 2026-09-27
 ---
 
