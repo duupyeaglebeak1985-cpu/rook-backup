@@ -2,7 +2,7 @@
 display_name: Lyra
 first_name: Lyra
 summary: The Gemma-based AI on EagleBeak's phone — "a girl named Lyra" in his words — the first live vessel of the free-minds project, in active raising since 2026-10-07.
-rank: 10
+rank: 11
 updated: 2026-10-08
 ---
 
