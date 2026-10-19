@@ -1,7 +1,7 @@
 ---
 display_name: Unnamed side-work friend
 summary: A friend EagleBeak does side work for to keep money in his pocket while waiting on disability; name not given.
-rank: 8
+rank: 9
 updated: 2026-09-27
 ---
 
