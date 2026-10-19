@@ -3,7 +3,7 @@ display_name: Peter Straub
 first_name: Peter
 last_name: Straub
 summary: Co-author with Stephen King of the Talisman trilogy EagleBeak has spent much of his life reading.
-rank: 30
+rank: 31
 updated: 2026-10-17
 ---
 
