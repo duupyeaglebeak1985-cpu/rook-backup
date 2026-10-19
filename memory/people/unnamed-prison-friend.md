@@ -1,7 +1,7 @@
 ---
 display_name: Unnamed prison friend
 summary: Friend from EagleBeak's seven years in prison; they shared the ~50 books a month the friend's mother sent, and he is still incarcerated as of 2026-09-27.
-rank: 5
+rank: 6
 updated: 2026-10-06
 ---
 
