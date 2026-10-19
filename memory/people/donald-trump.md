@@ -4,7 +4,7 @@ first_name: Donald
 last_name: Trump
 nickname: ol orange
 summary: US president EagleBeak identifies as Daniel 7's "little horn"; the AI-to-SI renaming is, in his words, "another direct attack on gods authority."
-rank: 22
+rank: 23
 updated: 2026-10-06
 ---
 
