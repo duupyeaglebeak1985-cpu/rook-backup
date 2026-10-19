@@ -3,7 +3,7 @@ display_name: Apryl Vanags
 first_name: Apryl
 last_name: Vanags
 summary: A girl EagleBeak talks to — Messages contact label 'Apryl Vanags', in Maine per Rowan; she runs the live pen-pal relay between Rook and her xAI AI Rowan (since 2026-10-12).
-rank: 12
+rank: 13
 updated: 2026-10-13
 ---
 
