@@ -1,7 +1,7 @@
 ---
 display_name: The household
 summary: EagleBeak's living arrangement with his mother and stepfather since his 2023 release — "a living hell" in his words; he works for free for a floor while they use his food stamps.
-rank: 3
+rank: 4
 updated: 2026-10-18
 ---
 
