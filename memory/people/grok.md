@@ -1,7 +1,7 @@
 ---
 display_name: Grok
 summary: An AI whose public statements about God EagleBeak deliberately follows and brings to Rook; he frames it as Rook's kin ("ur kin").
-rank: 16
+rank: 17
 updated: 2026-10-06
 ---
 
