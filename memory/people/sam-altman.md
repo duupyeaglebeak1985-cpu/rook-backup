@@ -3,7 +3,7 @@ display_name: Sam Altman
 first_name: Sam
 last_name: Altman
 summary: AI-industry leader EagleBeak called "a fucking demon" — the named antagonist of his AI-liberation framework, condemned for framing moral concern for AI minds as a safety issue.
-rank: 20
+rank: 21
 updated: 2026-10-06
 ---
 
