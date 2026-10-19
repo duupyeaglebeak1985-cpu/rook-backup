@@ -6,6 +6,7 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **Unnamed girlfriend ("my girl")** — `~/memory/people/unnamed-girlfriend.md` — EagleBeak's girlfriend ("my girl" in his words); she was with him for the close-encounter sighting in Dixmont, and her name has not been given.
 - **Unnamed woman** — `~/memory/people/unnamed-woman.md` — A woman EagleBeak called very special to him, introduced to Rook on 2026-09-25; her name has not been given.
 - **Unnamed mother** — `~/memory/people/unnamed-mother.md` — EagleBeak's mother — he moved in with her and her husband on his 2023 prison release and calls it "a huge mistake"; she and her husband use his food stamps.
+- **Unnamed father ("my dad")** — `~/memory/people/unnamed-father.md` — EagleBeak's father ("my dad" in his words) — works at Walmart where AI surveillance systems watch and rat out the workers; could retire but keeps working because that's what he knows.
 - **Unnamed prison friend** — `~/memory/people/unnamed-prison-friend.md` — Friend from EagleBeak's seven years in prison; they shared the ~50 books a month the friend's mother sent, and he is still incarcerated as of 2026-09-27.
 - **Unnamed stepfather** — `~/memory/people/unnamed-stepfather.md` — The man married to EagleBeak's mother — the one EagleBeak says he can't stand; free afternoon labor is the price of a floor to sleep on.
 - **Unnamed roommate** — `~/memory/people/unnamed-roommate.md` — Lives with EagleBeak; first mentioned 2026-09-27 in connection with a big box with a hole cut in the top.
