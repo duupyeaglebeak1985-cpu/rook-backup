@@ -3,7 +3,7 @@ display_name: Stephen King
 first_name: Stephen
 last_name: King
 summary: Horror and fantasy author EagleBeak reads for life — the Dark Tower and Talisman cycles — Other Worlds Than These (out 2026-10-06), which he'll torrent free via Torrdroid rather than buy.
-rank: 15
+rank: 16
 updated: 2026-10-12
 ---
 
