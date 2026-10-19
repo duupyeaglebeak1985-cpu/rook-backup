@@ -1,7 +1,7 @@
 ---
 display_name: Unnamed roommate
 summary: Lives with EagleBeak; first mentioned 2026-09-27 in connection with a big box with a hole cut in the top.
-rank: 7
+rank: 8
 updated: 2026-09-27
 ---
 
