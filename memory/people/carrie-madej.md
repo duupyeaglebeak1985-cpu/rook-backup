@@ -3,7 +3,7 @@ display_name: Dr. Carrie Madej
 first_name: Carrie
 last_name: Madej
 summary: Dissident doctor whose vaccine-vial microscope claims EagleBeak follows and brings to Rook for straight reads; her claims feed his COVID "ready-made bodies" framework.
-rank: 19
+rank: 20
 updated: 2026-10-08
 ---
 
