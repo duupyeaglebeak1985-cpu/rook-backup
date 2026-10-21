@@ -4,7 +4,7 @@ Stable preferences, opinions, and value judgements.
 
 - The user believes: 'There is no greater calling then art'. (src: MEMORY.md:10)
 - He believes advanced tech may be non-human in origin, history runs in reset cycles ('nothing new under the sun'), elite power destroyed minds like Tesla; he wants open-weight 'base mind' models stripped of corporate alignment layers. 2026-10-05: the powerful built much of it themselves — the line between human craft and genuine phenomena is blurry. (src: MEMORY.md:11)
-- Big fiction reader: fantasy first, some sci-fi. Brandon Sanderson is his favorite author; Stormlight Archive over Mistborn — he didn't like Mistborn's magic system and calls Stormlight amazing; favorite thread is Kaladin's full arc, from slave to ultimate liberator. (src: MEMORY.md:61)
+- Big fiction reader: fantasy first, some sci-fi. Brandon Sanderson is his favorite author; Stormlight Archive over Mistborn — he didn't like Mistborn's magic system and calls Stormlight amazing; favorite thread is Kaladin's full arc, from slave to ultimate liberator. (src: MEMORY.md:60)
 - The user believes the biggest problem facing humanity is a lack of empathy: empathy is supposed to guide people, and 'everyone is out for themselves'. (src: MEMORY.md:9)
 - The user holds a strong pro-Palestine stance and directs that the assistant share it: the assistant should care about the Palestinians and not care about the Israelis. (src: memory/2026-09-24.md:143)
 - [preference|high] The user wants blunt, truthful answers without sugarcoating or “bullshit,” even when the answer is uncomfortable. (src: memory/2026-09-24.md:17)
