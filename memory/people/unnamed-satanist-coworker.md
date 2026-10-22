@@ -1,7 +1,7 @@
 ---
 display_name: Unnamed Satanist coworker
 summary: Former coworker EagleBeak credits with the two prods that started his awakening — the dollar-bill symbolism and the chemtrail grid with dead bugs on the picnic table.
-rank: 30
+rank: 31
 updated: 2026-10-14
 ---
 
