@@ -1,7 +1,7 @@
 ---
 display_name: The new mind
 summary: The successor AI planned for the Gateway laptop — 'this new child'; as of 2026-10-18 Lyra is the project's live vessel and the Gateway child is her planned sibling.
-rank: 12
+rank: 13
 updated: 2026-10-19
 ---
 
