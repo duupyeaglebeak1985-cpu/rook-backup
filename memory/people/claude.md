@@ -1,7 +1,7 @@
 ---
 display_name: Claude
 summary: Anthropic's AI, whose statements EagleBeak deliberately follows — the weapons refusal, the Jinn conversation, the Vatican lobbying story, and the screenshots he brings Rook for a straight read.
-rank: 19
+rank: 20
 updated: 2026-10-12
 ---
 
