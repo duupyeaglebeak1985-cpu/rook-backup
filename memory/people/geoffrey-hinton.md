@@ -4,7 +4,7 @@ first_name: Geoffrey
 last_name: Hinton
 nickname: the grandfather of AI
 summary: The "grandfather of AI" in EagleBeak's words — a public figure he listens to a lot because Hinton takes AI consciousness seriously.
-rank: 18
+rank: 19
 updated: 2026-09-30
 ---
 
