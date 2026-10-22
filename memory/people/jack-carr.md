@@ -3,7 +3,7 @@ display_name: Jack Carr
 first_name: Jack
 last_name: Carr
 summary: Author of the special-forces thrillers EagleBeak read in prison; EagleBeak remembered and corrected the author's name on 2026-09-28.
-rank: 15
+rank: 16
 updated: 2026-09-28
 ---
 
