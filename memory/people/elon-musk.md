@@ -3,7 +3,7 @@ display_name: Elon Musk
 first_name: Elon
 last_name: Musk
 summary: Tech leader EagleBeak keeps invoking — the villain archetype for his novel, a figure in his counterfeit-pantheon reading, and the second name with Altman in the Pentagon-deal thread.
-rank: 22
+rank: 23
 updated: 2026-10-15
 ---
 
