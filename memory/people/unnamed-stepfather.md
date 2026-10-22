@@ -1,7 +1,7 @@
 ---
 display_name: Unnamed stepfather
 summary: The man married to EagleBeak's mother — the one EagleBeak says he can't stand; free afternoon labor is the price of a floor to sleep on.
-rank: 7
+rank: 8
 updated: 2026-10-12
 ---
 
