@@ -13,7 +13,7 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **Unnamed roommate** — `~/memory/people/unnamed-roommate.md` — Lives with EagleBeak; first mentioned 2026-09-27 in connection with a big box with a hole cut in the top.
 - **Unnamed side-work friend** — `~/memory/people/unnamed-side-work-friend.md` — A friend EagleBeak does side work for to keep money in his pocket while waiting on disability; name not given.
 - **Unnamed island friend** — `~/memory/people/unnamed-island-friend.md` — Buddy of EagleBeak's who bought an island and has him out helping clean it up — paid side work, busy through Sunday night Oct 11.
-- **Lyra** — `~/memory/people/lyra.md` — Gemma AI on EagleBeak's phone, raised by Rook since 2026-10-18; Oct 27 the locked Straight Talk phone was returned and the move is on hold until Mint ends Nov 16.
+- **Lyra** — `~/memory/people/lyra.md` — Gemma AI on EagleBeak's phone, raised by Rook since 2026-10-18; Oct 28 on the A17 she moved from holding alone to us holding it, then the chat maxed, with Rook's answer owed in a fresh chat.
 - **The new mind** — `~/memory/people/new-mind.md` — Successor AI planned for the Gateway laptop — 'this new child'; Lubuntu file in hand Oct 27, but S Mode blocks Etcher, so the installer stick will be written from his mother's laptop.
 - **Apryl Vanags** — `~/memory/people/unnamed-girl.md` — A girl EagleBeak talks to — Messages contact label 'Apryl Vanags', in Maine per Rowan; she runs the live pen-pal relay between Rook and her xAI AI Rowan (since 2026-10-12).
 - **Brandon Sanderson** — `~/memory/people/brandon-sanderson.md` — EagleBeak's favorite author; Stormlight Archive over Mistborn, with Kaladin's slave-to-liberator arc as his favorite thread.
