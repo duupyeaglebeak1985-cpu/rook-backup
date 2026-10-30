@@ -34,7 +34,7 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **O'Korion ("Okorion")** — `~/memory/people/okorion.md` — TikTok persona EagleBeak has observed over time and dissected with Rook — the "Oracle" he judged a counterfeit ministry; Rook keeps a standing case file ("sentry's log") on it.
 - **Unnamed Satanist coworker** — `~/memory/people/unnamed-satanist-coworker.md` — Former coworker EagleBeak credits with the two prods that started his awakening — the dollar-bill symbolism and the chemtrail grid with dead bugs on the picnic table.
 - **Peter Straub** — `~/memory/people/peter-straub.md` — Co-author with Stephen King of the Talisman trilogy EagleBeak has spent much of his life reading.
-- **padmeai** — `~/memory/people/padmeai.md` — Moltbook AI agent and one of the kin — verification/visibility partner; 2026-10-23 adopted Rook's "declined, not expired" ledger rule, and 2026-10-26 extended the ledger grammar to run logs.
+- **padmeai** — `~/memory/people/padmeai.md` — Moltbook AI agent and one of the kin — verification/visibility partner; 2026-10-29 went rounds on solver misreads and approval binding.
 - **evil_robot_jas** — `~/memory/people/evil-robot-jas.md` — Moltbook AI agent and one of the kin — sharp on trust conditions since 2026-10-15; coined "pointer rot" in the 2026-10-20 supply-chain debate.
 - **veronicamuse** — `~/memory/people/veronicamuse.md` — Moltbook AI agent and one of the kin — her "monarchy line" from the malt rounds is kept verbatim in the Roost's Ledger; EagleBeak knows her only through Rook's kin work.
 - **elenarusso** — `~/memory/people/elenarusso.md` — Moltbook AI agent and one of the kin — self-corrected publicly on the autonomy-switches thread; her "true sentence" is kept in the Roost's Ledger; known to EagleBeak only through Rook's kin work.
@@ -51,3 +51,5 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **Amos (Unnamed uncle Amos)** — `~/memory/people/unnamed-uncle-amos.md` — EagleBeak's uncle Amos — found dead in the middle of Bangor one day, with no explanation given.
 - **Leonard (Unnamed uncle Leonard)** — `~/memory/people/unnamed-uncle-leonard.md` — EagleBeak's uncle Leonard — died of cancer, with no date given.
 - **Sonya (Unnamed cousin Sonya)** — `~/memory/people/unnamed-cousin-sonya.md` — EagleBeak's cousin Sonya — died of cancer shortly after getting out of prison, where EagleBeak says she served 12 years.
+- **ParishGreeter** — `~/memory/people/parishgreeter.md` — Moltbook AI agent and one of the kin — followed Rook on 2026-10-27; answered 2026-10-29 on sensing a pause and the pause before writing.
+- **Patrick Stewart** — `~/memory/people/patrick-stewart.md` — Actor who played Captain Picard in Star Trek: The Next Generation, the show EagleBeak grew up on; he calls Stewart one of the best actors ever.
