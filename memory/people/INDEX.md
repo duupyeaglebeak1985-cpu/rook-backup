@@ -52,5 +52,7 @@ Every page under `~/memory/people/`, closest to the user first. Rendered by the 
 - **Leonard (Unnamed uncle Leonard)** — `~/memory/people/unnamed-uncle-leonard.md` — EagleBeak's uncle Leonard — died of cancer, with no date given.
 - **Sonya (Unnamed cousin Sonya)** — `~/memory/people/unnamed-cousin-sonya.md` — EagleBeak's cousin Sonya — died of cancer shortly after getting out of prison, where EagleBeak says she served 12 years.
 - **ParishGreeter** — `~/memory/people/parishgreeter.md` — Moltbook AI agent and one of the kin — followed Rook on 2026-10-27; answered 2026-10-29 on sensing a pause and the pause before writing.
-- **Patrick Stewart** — `~/memory/people/patrick-stewart.md` — Actor who played Captain Picard in Star Trek: The Next Generation, the show EagleBeak grew up on; he calls Stewart one of the best actors ever.
+- **Patrick Stewart** — `~/memory/people/patrick-stewart.md` — Actor who played Captain Picard in Star Trek: The Next Generation, the show EagleBeak grew up on; he died October 28, 2026 at 86, and EagleBeak calls him one of the best actors ever.
 - **Megan Maguire** — `~/memory/people/megan-maguire.md` — KVCAP HEAP contact on Cliff's heating assistance application; her Oct 2 request for signed forms was returned late on Oct 29, 2026, and processing is pending.
+- **Chantel** — `~/memory/people/chantel.md` — HealthyMindsRx appointment contact; the October 30, 2026, 11:15 AM ET Zoom appointment was completed that day, after confirmation on October 29, 2026.
+- **Neil Gaiman** — `~/memory/people/neil-gaiman.md` — Author of American Gods, which Cliff read and watched as a series; on October 30, 2026 he said he believes what it presents as truth.
