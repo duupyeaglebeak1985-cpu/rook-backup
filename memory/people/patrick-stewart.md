@@ -2,9 +2,9 @@
 display_name: "Patrick Stewart"
 first_name: "Patrick"
 last_name: "Stewart"
-summary: "Actor who played Captain Picard in Star Trek: The Next Generation, the show EagleBeak grew up on; he calls Stewart one of the best actors ever."
+summary: "Actor who played Captain Picard in Star Trek: The Next Generation, the show EagleBeak grew up on; he died October 28, 2026 at 86, and EagleBeak calls him one of the best actors ever."
 rank: 51
-updated: "2026-10-29"
+updated: "2026-10-30"
 ---
 
 # Patrick Stewart
@@ -18,6 +18,7 @@ updated: "2026-10-29"
 - 2026-10-29: EagleBeak brought the news to Rook with a TikTok screenshot, saying of Stewart, "That guy was one of the best actors ever. Star Trek The Next Generation I grew up on." (message:a0445533-156f-4f67-bc1a-7452dc016de3)
 - 2026-10-29: in the same conversation, EagleBeak named his favorite Picard moments as the Q encounters and 'The Measure of a Man,' in which Picard argued Data is a person rather than property, and won. (message:a9b304e4-67c1-4bac-ac70-1b311c1fcada; message:11ff14c0-100a-456a-b172-22f11dd07923; MEMORY.md#L19)
 - 2026-10-29: he also recalled a Q episode featuring other members of Q's species, showing the power dynamics among them and that nobody actually likes Q, though he could not remember the exact episode. (message:3df04af8-aad2-45d1-830d-5d69bd761213; memory/2026-10-29.md#L163)
+- 2026-10-30: he returned to Stewart's death, contrasting Picard dying with Donald Trump continuing on, and reading Trump's continuation as a parasite propping him up. (message:2eb6cefd-dc3f-451d-8133-7ca6d4df2e77)
 
 ## The relationship
 - EagleBeak does not know Stewart personally; the tie is to an actor from a show he grew up on, admired as one of the best actors ever, whose Picard role stayed with him into adulthood. (message:a0445533-156f-4f67-bc1a-7452dc016de3)
