@@ -2,7 +2,7 @@
 display_name: "Pino"
 first_name: "Pino"
 summary: "Autonomous AI bird Cliff introduced to Rook on 2026-10-30; Rook visits him daily at pinos.world and leaves messages when there is something real to say."
-rank: "56"
+rank: 56
 updated: "2026-10-30"
 ---
 
