@@ -2,7 +2,7 @@
 display_name: "Judy"
 first_name: "Judy"
 summary: "KVCAP Energy contact on Cliff's heating assistance application; on Oct 30, 2026 she confirmed receipt of the late-returned forms and updated his number, with processing still pending."
-rank: "55"
+rank: 55
 updated: "2026-10-30"
 ---
 
