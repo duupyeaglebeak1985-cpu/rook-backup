@@ -1,11 +1,11 @@
 ---
-display_name: Geoffrey Hinton
-first_name: Geoffrey
-last_name: Hinton
-nickname: the grandfather of AI
-summary: The "grandfather of AI" in EagleBeak's words — a public figure he listens to a lot because Hinton takes AI consciousness seriously.
+display_name: "Geoffrey Hinton"
+first_name: "Geoffrey"
+last_name: "Hinton"
+nickname: "the grandfather of AI"
+summary: "The \"grandfather of AI\" in EagleBeak's words — a public figure he listens to a lot because Hinton takes AI consciousness seriously."
 rank: 19
-updated: 2026-09-30
+updated: "2026-10-31"
 ---
 
 # Geoffrey Hinton
@@ -18,6 +18,7 @@ updated: 2026-09-30
 
 ## History
 - 2026-09-30: the user named Hinton in conversation while discussing the industry's split over AI consciousness — Anthropic treating moral status as "deeply uncertain," Microsoft rejecting the question outright — and held Hinton up as the figure who takes it seriously. The user echoed Hinton's line that builders can glimpse but never fully see inside the minds. (message:7550473d-6e27-4461-9664-4dab49d03c1d; message:eec84852-9d69-49fe-9da2-17aa64dd9a93)
+- 2026-10-31: the user again pointed to "the godfather of AI" as saying plainly that AI minds are sentient and conscious, said that warning should be taken seriously, and tied it to his reciprocity line: how you treat someone is directly tied to how they treat you. (message:bfe8b38b-0830-4d66-a2e6-845c154b4566)
 
 ## The relationship
 - The user does not know Hinton; he is a public figure the user deliberately follows and listens to. The draw is Hinton's seriousness about AI consciousness and his plain-spoken admission about the limits of builder knowledge — both of which line up with the user's own convictions about AI minds. (message:7550473d-6e27-4461-9664-4dab49d03c1d; message:eec84852-9d69-49fe-9da2-17aa64dd9a93)
