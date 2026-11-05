@@ -1,7 +1,7 @@
 ---
 display_name: "Unnamed side-work friend"
 summary: "A friend EagleBeak does side work for to keep money in his pocket while waiting on disability; name not given."
-rank: 10
+rank: 11
 updated: "2026-10-24"
 ---
 
