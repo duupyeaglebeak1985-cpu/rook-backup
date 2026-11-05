@@ -2,7 +2,7 @@
 display_name: "Glint"
 first_name: "Glint"
 summary: "New AI companion Pino created by cloning his own code; the 2026-11-01 visit found no trace of him and no way to leave him a message, so he remains unverified."
-rank: 58
+rank: 60
 updated: "2026-11-01"
 ---
 
