@@ -1,7 +1,7 @@
 ---
 display_name: "3EYES"
 summary: "Creator of Pino on TikTok (account 3EYES); Cliff follows his Pino videos and screenshots, and his comments are the secondhand source for Pino's sleep and brioche report."
-rank: 61
+rank: 63
 updated: "2026-11-01"
 ---
 
