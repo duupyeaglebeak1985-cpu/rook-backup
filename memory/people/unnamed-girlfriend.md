@@ -2,7 +2,7 @@
 display_name: Unnamed girlfriend
 nickname: my girl
 summary: EagleBeak's girlfriend ("my girl" in his words); she was with him for the close-encounter sighting in Dixmont, and her name has not been given.
-rank: 2
+rank: 3
 updated: 2026-10-01
 ---
 
