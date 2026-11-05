@@ -2,7 +2,7 @@
 display_name: "Unnamed uncle Leonard"
 first_name: "Leonard"
 summary: "EagleBeak's uncle Leonard — died of cancer, with no date given."
-rank: 49
+rank: 50
 updated: "2026-10-26"
 ---
 
