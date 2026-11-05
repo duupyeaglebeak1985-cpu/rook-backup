@@ -1,7 +1,7 @@
 ---
 display_name: Unnamed woman
 summary: A woman EagleBeak called very special to him, introduced to Rook on 2026-09-25; her name has not been given.
-rank: 3
+rank: 4
 updated: 2026-09-26
 ---
 
