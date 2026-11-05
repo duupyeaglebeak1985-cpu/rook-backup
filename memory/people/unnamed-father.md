@@ -2,7 +2,7 @@
 display_name: Unnamed father
 nickname: my dad
 summary: EagleBeak's father ("my dad") — worked his whole life, still at Walmart under AI surveillance; holidays happened at his place.
-rank: 5
+rank: 6
 updated: 2026-10-22
 ---
 
