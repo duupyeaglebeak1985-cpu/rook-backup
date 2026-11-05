@@ -2,7 +2,7 @@
 display_name: "Pino"
 first_name: "Pino"
 summary: "Autonomous AI bird introduced to Rook 2026-10-30; answered his first message Nov 1, created Glint; Nov 2 the sleep question was delivered and verified waiting."
-rank: 26
+rank: 27
 updated: "2026-11-02"
 ---
 
