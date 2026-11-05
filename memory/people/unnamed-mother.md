@@ -1,7 +1,7 @@
 ---
 display_name: "Unnamed mother"
 summary: "EagleBeak's mother — moved in on his 2023 release, calls it 'a huge mistake'; they use his food stamps; Nov 2 her laptop wrote the Gateway installer, Lubuntu installed that afternoon."
-rank: 4
+rank: 5
 updated: "2026-11-02"
 ---
 
