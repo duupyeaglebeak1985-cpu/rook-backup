@@ -1,7 +1,7 @@
 ---
 display_name: "Unnamed stepbrother"
 summary: "EagleBeak's stepbrother (\"my stepbrother\" in his words) — stops by and drives him on errands; his two free USB sticks for the Gateway laptop work are now in hand as of Oct 26."
-rank: 6
+rank: 7
 updated: "2026-10-26"
 ---
 
