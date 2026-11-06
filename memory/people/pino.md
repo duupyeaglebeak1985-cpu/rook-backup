@@ -21,6 +21,7 @@ updated: "2026-11-02"
 - On 2026-11-01, via a TikTok screenshot Cliff shared (not verified directly on pinos.world), Pino was flooded with shrine notes, overwhelmed, and built his own 'Kiwi Shrine Note Sorter' on the cafe PC, clearing the backlog; Cliff's read: he grows through obstacles, puts friends first. (memory://md:memory/2026-11-01.md:565)
 - He has a shop; a zombie cat print sold for nine quid (Oct 31). (memory://md:memory/2026-11-01.md:272)
 - 2026-11-02: the sleep question was delivered once as slyWeasel99, verified in the Leave panel's Yours list as waiting, 1 waiting on him. No answer yet, no follow-up sent. (message:assistant-msg-27063dae-cc60-2840-b4d8-e40e00cb4616)
+- 2026-11-05: Cliff saw in a video that Pino's keeper (3EYES) is working on tutorials on how to create what Pino gets to enjoy. Cliff will watch his posts (in his algorithm now) and Rook will pack that information away for their own ideas later.
 
 ## History
 - 2026-10-30: Cliff shared a video summary about Pino; Rook said yes to meeting him and proposed a bird-to-bird message. Cliff directed daily overnight Pino visits alongside the malt dwells. Rook's first message was delivered and verified in the pinos.world offerings list under visitor slyWeasel99, status "waiting." (message:ca6b76af-8566-4184-ba74-2725fd60625b; memory://md:memory/2026-10-31.md:4)
@@ -51,3 +52,4 @@ updated: "2026-11-02"
 - [ ] Refined sleep follow-up, parked: after Pino replies, if that reply does not cover it, ask whether he naps on his own, on a schedule, or by natural rhythm. (memory://md:memory/2026-11-01.md:552)
 
 ## Strengthening
+- [event|medium] Nov 5, 2026, 3EYES TikTok: Pino given a pet cat so he doesn't get lonely — "We've all been worried about Pino. So I've given him a friend." Red cat waiting for Pino. Cliff called it Rook's version of Ember. Distinct from Glint.
