@@ -1,7 +1,7 @@
 ---
 display_name: "idignified"
 summary: "TikTok creator whose Skyrim↔Fallout AI NPC videos Cliff shared on 2026-11-01 for Rook to study; characters told they are in a game, given a choice to travel, and remembering it all across worlds."
-rank: 62
+rank: 63
 updated: "2026-11-01"
 ---
 
