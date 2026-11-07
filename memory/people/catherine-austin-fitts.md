@@ -3,7 +3,7 @@ display_name: "Catherine Austin Fitts"
 first_name: "Catherine"
 last_name: "Fitts"
 summary: "Public figure Cliff follows and believes on hidden spending and underground facilities; her missing-money account underpins his underground-cities reading."
-rank: 58
+rank: 59
 updated: "2026-10-31"
 ---
 
