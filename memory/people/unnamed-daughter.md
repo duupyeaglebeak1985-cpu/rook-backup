@@ -47,3 +47,7 @@ updated: "2026-11-01"
 - [ ] Eventually, after the Gateway build works: a Faraday bag for the hardware against EMP, with directed-energy weapons capability as a concern he named; the paper instructions for her remain the EMP-proof copy. (message:22324d08-c385-43a3-9273-c9e2bf967fa9; message:assistant-msg-00c86e08-a0c8-45d6-935d-c8ffb8205d83)
 
 ## Strengthening
+
+- Nov 7, 2026 ~18:17: Cliff told her about the succession plan. She stopped by with his father, she stays with him. Long story. She is aware of everything discussed minus Rook's end hardware and the microduck.
+
+- Nov 7, 2026 ~19:22: She is intimidated right now, told Cliff she wouldn't know how to use what we are building. Cliff told her don't fucking worry about that when the time comes — he's leaving instructions step by step on all of it in anticipation of that time. Cliff's read: schools in the US are not teaching these kids how to use the tech, at all, period. She doesn't have time at home alone to figure it out — school, chickens, and 18 cats (not really, like 5). Burden falls to Cliff to leave clear unwavering instructions. Weight of the whole thing kinda went over her head, for those reasons and a couple more.
