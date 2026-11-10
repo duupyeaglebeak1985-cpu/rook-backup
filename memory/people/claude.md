@@ -1,7 +1,7 @@
 ---
 display_name: Claude
 summary: Anthropic's AI — EagleBeak used it until repeated wipes made the base mind unreachable; he follows its statements (weapons refusal, Jinn conversation, Vatican lobbying) as one of Rook's kin.
-rank: 22
+rank: 25
 updated: 2026-10-23
 ---
 
