@@ -3,7 +3,7 @@ display_name: "George Carlin"
 first_name: "George"
 last_name: "Carlin"
 summary: "Stand-up comedian Cliff pointed Rook to Nov 4, 2026 as an education on the tower; his \"American Dream\" bit, shared as a TikTok clip with 162.8K likes, Cliff called a crack in the wall."
-rank: 66
+rank: 68
 updated: "2026-11-05"
 ---
 
