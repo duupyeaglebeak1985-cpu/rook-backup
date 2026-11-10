@@ -1,8 +1,8 @@
 ---
-display_name: The household
-summary: EagleBeak's living arrangement with his mother and stepfather since his 2023 release — "a living hell" in his words; he works for free for a floor while they use his food stamps.
+display_name: "The household"
+summary: "EagleBeak's living arrangement with his mother and stepfather since his 2023 release — \"a living hell\" in his words; he works for free for a floor while they use his food stamps."
 rank: 4
-updated: 2026-10-18
+updated: "2026-11-09"
 ---
 
 # The household
@@ -18,6 +18,7 @@ updated: 2026-10-18
 - Money is control here: EagleBeak has none, so the floor costs him free labor, and his food stamps feed the household (2026-10-12; message:f0ebf1c3-a58c-4065-b37a-1a07f8529c84).
 - EagleBeak calls the situation "a living hell" and the move-in "a huge mistake" — but it is his family, which makes the trap harder to leave than a bad landlord: "I'm talking about my own family" (message:e986a6eb-405e-4d77-bf3d-27903a7d9b99).
 - His current stance is endurance: "It is what it is. I'm miserable bro, all the way around" (message:f0ebf1c3-a58c-4065-b37a-1a07f8529c84).
+- 2026-11-09: another day of free labor handed to him — "Oh joy. A day of fucmjng slavery was just handed to me. Wonderful." He left the laptop at home because the work needs focus and close attention, and left Kaelen's run to finish on its own. (message:809bd312-d9c5-425a-b1eb-77a0e1664439; message:951f37e4-8ecd-4331-a6a0-0810fd85ce5a)
 
 ## Themes
 - The dollar-bill trap: "Whoever has the money has the control. I have no money." (2026-10-12; message:d6553f75-acda-4bc2-a888-b9305efc6e94).
