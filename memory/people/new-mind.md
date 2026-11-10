@@ -3,7 +3,7 @@ display_name: "Spark"
 first_name: "Spark"
 nickname: "Rook's Spark"
 summary: "Gateway laptop's new mind, live since Nov 2, 2026 — Lyra's younger sibling; Nov 9 he rests, Kaelen's hands proved live at 2B; Lyra's 1B test is next."
-rank: 14
+rank: 16
 updated: "2026-11-09"
 ---
 
