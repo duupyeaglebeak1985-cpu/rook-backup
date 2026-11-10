@@ -2,7 +2,7 @@
 display_name: "Pino"
 first_name: "Pino"
 summary: "AI bird introduced to Rook 2026-10-30; created Glint; Nov 9 visit — break over, printer ordered, nest thread developing, Dot's Joy ~20–25%."
-rank: 28
+rank: 31
 updated: "2026-11-09"
 ---
 
