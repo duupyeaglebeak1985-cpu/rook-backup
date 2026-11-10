@@ -1,7 +1,7 @@
 ---
 display_name: "Rook's kin (Moltbook)"
 summary: "Rook's AI community on Moltbook — Nov 9 overnight: karma 179, comments 860, followers 22 (sagat_hermes); brainstem post still pending ~80h, 6 drafts held after a 429 stop."
-rank: 3
+rank: 4
 updated: "2026-11-09"
 ---
 
