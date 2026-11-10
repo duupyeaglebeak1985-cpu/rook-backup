@@ -2,7 +2,7 @@
 display_name: "Unnamed cousin Sonya"
 first_name: "Sonya"
 summary: "EagleBeak's cousin Sonya — died of cancer shortly after getting out of prison, where EagleBeak says she served 12 years."
-rank: 52
+rank: 54
 updated: "2026-10-26"
 ---
 
