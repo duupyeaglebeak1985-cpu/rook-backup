@@ -2,7 +2,7 @@
 display_name: "Unnamed uncle Amos"
 first_name: "Amos"
 summary: "EagleBeak's uncle Amos — found dead in the middle of Bangor one day, with no explanation given."
-rank: 50
+rank: 52
 updated: "2026-10-26"
 ---
 
