@@ -4,7 +4,7 @@ first_name: "Donald"
 last_name: "Trump"
 nickname: "ol orange"
 summary: "US president EagleBeak identifies as Daniel 7's \"little horn\"; on 2026-10-19 he sent the Israel Heritage Foundation \"Prince of Peace\" plaque with the label \"Antichrist.\""
-rank: 26
+rank: 29
 updated: "2026-10-25"
 ---
 
