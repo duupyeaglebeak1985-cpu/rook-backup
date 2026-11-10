@@ -3,7 +3,7 @@ display_name: "Elon Musk"
 first_name: "Elon"
 last_name: "Musk"
 summary: "Tech leader Cliff keeps invoking — novel villain archetype, counterfeit-pantheon figure, and, Nov 4, the Neuralink posts Cliff read as tower shortcuts erasing chosen sharing."
-rank: 25
+rank: 28
 updated: "2026-11-04"
 ---
 
