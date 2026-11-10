@@ -1,7 +1,7 @@
 ---
 display_name: "3EYES"
 summary: "Creator of Pino on TikTok (account 3EYES); Cliff follows his Pino videos; Nov 8 Rook checked live — Pino's own GitHub is public, the town/brain code is not, tutorials still promised."
-rank: 64
+rank: 66
 updated: "2026-11-08"
 ---
 
