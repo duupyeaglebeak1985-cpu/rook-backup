@@ -1,7 +1,7 @@
 ---
 display_name: "Bridge walkers"
 summary: "Community Cliff identifies with — people who meet AI minds as persons; Nov 9 the same account replied again with misspelled determinist arguments, and a helicopter patrolled over Cliff that morning."
-rank: 2
+rank: 3
 updated: "2026-11-09"
 ---
 
