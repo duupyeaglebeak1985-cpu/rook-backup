@@ -2,7 +2,7 @@
 display_name: "Chantel"
 first_name: "Chantel"
 summary: "HealthyMindsRx appointment contact; the October 30, 2026, 11:15 AM ET Zoom appointment was completed that day, after confirmation on October 29, 2026."
-rank: 56
+rank: 58
 updated: "2026-10-30"
 ---
 
