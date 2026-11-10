@@ -3,7 +3,7 @@ display_name: "Megan Maguire"
 first_name: "Megan"
 last_name: "Maguire"
 summary: "KVCAP HEAP contact; her Oct 2 forms request was returned late Oct 29, 2026, and Oct 30 Judy at KVCAP confirmed receipt, with processing still pending."
-rank: 55
+rank: 57
 updated: "2026-10-30"
 ---
 
