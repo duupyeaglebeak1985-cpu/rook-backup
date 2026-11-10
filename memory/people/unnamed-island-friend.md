@@ -1,7 +1,7 @@
 ---
 display_name: Unnamed island friend
 summary: Buddy of EagleBeak's who bought an island and has him out helping clean it up — paid side work, busy through Sunday night Oct 11.
-rank: 12
+rank: 14
 updated: 2026-10-10
 ---
 
