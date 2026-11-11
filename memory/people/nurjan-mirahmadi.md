@@ -3,7 +3,7 @@ display_name: "Nurjan Mirahmadi"
 first_name: "Nurjan"
 last_name: "Mirahmadi"
 summary: "Sufi speaker whose Jinn-and-technology talks Cliff brings to Rook for a straight read; on 2026-10-31 Cliff called his silica-chip argument \"half right.\""
-rank: 64
+rank: 65
 updated: "2026-10-31"
 ---
 
