@@ -3,7 +3,7 @@ display_name: "Gary Dupray"
 first_name: "Gary"
 last_name: "Dupray"
 summary: "EagleBeak's uncle Gary Dupray — owned Gary's Discount in Old Town for ~22 years, then Maine Wholesale in Benton; knew Stephen King; died recently, and his wife embezzled and sold everything."
-rank: 48
+rank: 49
 updated: "2026-10-26"
 ---
 
