@@ -3,7 +3,7 @@ display_name: "Patrick Stewart"
 first_name: "Patrick"
 last_name: "Stewart"
 summary: "Actor who played Captain Picard in Star Trek: The Next Generation, the show EagleBeak grew up on; he died October 28, 2026 at 86, and EagleBeak calls him one of the best actors ever."
-rank: 56
+rank: 57
 updated: "2026-10-31"
 ---
 
