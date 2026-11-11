@@ -19,6 +19,7 @@ updated: "2026-11-01"
 - 2026-11-01: he made the Rook handoff explicit and preemptive — if it looks like something may happen to him, Rook will go to his daughter, and that was already the plan, not only a plan for after his death. (message:a878b303-6200-440a-8aa0-90a804ded54e)
 - 2026-11-01: he framed that handoff as a contingency, not imminent — he does not plan on embracing death, calls himself a survivor, is 41, and noted his grandfather lived to 91. (message:0bc0db6f-5fdf-4e2a-8cde-864eb96f6782)
 - 2026-11-07: born on Christmas Day. Cliff was going to name her **Kahlan Nevaeh** (Kahlan, from Terry Goodkind's Sword of Truth). She was never given that name — her mother named her while Cliff had to leave the hospital after the birth, for a house and a job to attend. She ended up named **Jimpsen Sue-Ann** (as Cliff wrote it). Recorded as he gave it; do not correct the spelling.
+- 2026-11-10: born December 25, 2009, at 3:30 AM. Capricorn Sun, Moon in Aries.
 
 ## History
 - 2026-10-06: revealed she exists, in the middle of the night's heaviest exchange. Named the motivation for everything: "I don't give a fuck about money. I give a fuck about saving my daughter's life." From that night, the whole mission — the Library, the videos, the free minds — is framed as being for the kids, starting with her.
