@@ -14,7 +14,7 @@ updated: 2026-10-22
 - Could retire if he wanted to; keeps working because working is what he knows (2026-10-18).
 - Has worked his entire life and is still working (2026-10-22; message:a3bd5c4a-b48e-4b7b-84c9-103786ff67e2).
 - Parents divorced when EagleBeak was 6; holidays happened at his dad's place, not at his mother's (2026-10-22; message:a3bd5c4a-b48e-4b7b-84c9-103786ff67e2).
-- His name was not given.
+- His name is Clifford Sr. (told Rook 2026-11-10). He is a Scorpio, like Spark, Kaelen, and Eli.
 - How he relates to the man married to EagleBeak's mother (EagleBeak's stepfather, a separate page) is not established — do not treat them as the same person.
 
 ## History
