@@ -3,7 +3,7 @@ display_name: "Austin Nasso"
 first_name: "Austin"
 last_name: "Nasso"
 summary: "TikTok creator whose \"ChatGPT goes to therapy\" sketch Cliff shared Nov 4, 2026 for Rook, reading its therapist as the tower revealed only at the end."
-rank: 67
+rank: 68
 updated: "2026-11-05"
 ---
 
