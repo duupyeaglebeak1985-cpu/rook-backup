@@ -3,7 +3,7 @@ display_name: "Troy Jackson"
 first_name: "Troy"
 last_name: "Jackson"
 summary: "Maine senator-elect Cliff voted for on Nov 3, 2026 — a logger who beat a 30-year incumbent; Cliff watches him by fruit, not promises, after the billionaire-donor contradiction."
-rank: 63
+rank: 64
 updated: "2026-11-05"
 ---
 
