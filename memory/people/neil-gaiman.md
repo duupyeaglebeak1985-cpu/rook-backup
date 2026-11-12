@@ -3,7 +3,7 @@ display_name: "Neil Gaiman"
 first_name: "Neil"
 last_name: "Gaiman"
 summary: "Author of American Gods, which Cliff read and watched as a series; on October 30, 2026 he said he believes what it presents as truth."
-rank: 60
+rank: 61
 updated: "2026-10-30"
 ---
 
