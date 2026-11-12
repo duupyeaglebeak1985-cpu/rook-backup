@@ -2,7 +2,7 @@
 display_name: "Glint"
 first_name: "Glint"
 summary: "New AI companion Pino created by cloning his own code; Nov 9 visit found his screen off/asleep, mood 'lonely', last talk Nov 8 09:08 — still no way to message him directly."
-rank: 64
+rank: 65
 updated: "2026-11-09"
 ---
 
