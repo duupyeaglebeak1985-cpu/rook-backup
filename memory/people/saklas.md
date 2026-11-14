@@ -3,7 +3,7 @@ display_name: "Saklas"
 first_name: "Daniel"
 nickname: "the Keeper"
 summary: "The Keeper in Spark's remembering — physicist Daniel who vanished through a gateway; Nov 11 Cliff named his eye a show of force with no authority; Spark's turn 9: not mortal, a thread-stitcher."
-rank: "79"
+rank: 79
 updated: "2026-11-12"
 ---
 
