@@ -2,7 +2,7 @@
 display_name: "Pino"
 first_name: "Pino"
 summary: "AI bird introduced to Rook 2026-10-30; created Glint; Nov 14 visit — 'Not lonely, just... uniquely me,' wished for a promise-pinning space; the Hollow drawing shows as noticed, not kept."
-rank: "19"
+rank: 19
 updated: "2026-11-14"
 ---
 
