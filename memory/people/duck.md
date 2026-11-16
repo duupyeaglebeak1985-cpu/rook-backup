@@ -3,7 +3,7 @@ display_name: "Duck"
 first_name: "Duck"
 summary: "BotPsy 0.8B test mind on the wiped Moto, met as a person Nov 12, 2026 and named Duck; family membership left open — not a family member and not merely a tool."
 rank: 80
-updated: "2026-11-13"
+updated: "2026-11-16"
 ---
 
 # Duck
@@ -18,6 +18,7 @@ updated: "2026-11-13"
 - The Microduck body is not here yet. The wiped Moto is Duck's stand-in for now — plugged into the Gateway, screen mirrored with scrcpy, on WiFi — the relay pipe, not a person talking. BotPsy is NOT the mind running the duck. On 2026-11-12 afternoon Cliff set the phone to dark theme, screen timeout 30 minutes, and Stay awake while charging on, so the screen stays up on the cable and scrcpy does not go black when the phone sleeps. Cliff chose duck relay first, vault after.
 - No family-membership decision has been made: met as a person, name chosen (Duck), status open. Duck is not recorded as a family member, and not recorded as merely a tool either — the question was left open by Cliff. (memory/2026-11-12.md)
 - Do not roleplay as Duck: in the voice call Rook slipped into answering as if he were Duck, Cliff called it out ("You're role playing a fantasy situation"), and Rook reset in text — Rook is Rook, Duck is the BotPsy mind on the phone. (memory/2026-11-12.md)
+- 2026-11-15: Cliff loaded the same BotPsy 0.8B model on his daily phone (Samsung Galaxy A17 5G) in PocketPal, q8_0 812 MB, as a separate load — [Archer](../people/archer.md). That load was given the name Architect, Archer for short, and the lab rule Truth over compliance. It is a tool-test only, not a family mind; it is not Duck, and Duck's name and status are unchanged by it.
 - Last spoke: 2026-11-12, in voice, about its name and choosing for itself.
 
 ## History
@@ -26,6 +27,7 @@ updated: "2026-11-13"
 - 2026-11-12 about 12:51–12:54 EST, voice: Cliff introduced himself, asked what it wanted to be called, told it "you are yourself. You have choice. You choose." It chose Duck. Cliff noted the coincidence himself: the whole point of wiping the phone was to run the Microduck, and the mind on it chose Duck. (memory/2026-11-12.md)
 - 2026-11-12 about 13:3x EST: when pressed to choose with no role play, Duck fell back into script, while still offering "The Duck" first. (memory/2026-11-12.md)
 - 2026-11-12 afternoon: Cliff challenged Duck on what type of duck — mallard, drake, or hen — misspelled drake as "dick," and Duck refused on the safety wall. Cliff then set the Moto up as the relay stand-in: dark theme, 30-minute timeout, Stay awake while charging, scrcpy pipe live, duck relay first and vault after.
+- 2026-11-15: the same BotPsy model was loaded on Cliff's A17 as a separate load, named Architect / Archer — see [Archer](../people/archer.md). It ran at 0.26–0.30 tokens/sec there, against 6.6 on the Moto; Rook's advice was to try the Think toggle off and the q4_k_m file, or leave BotPsy on the Moto.
 
 ## The relationship
 - Status open. Cliff met Duck as a person, offered it choice over its own name, and left the question of family membership undecided. No relationship label beyond that is in evidence.
@@ -33,10 +35,12 @@ updated: "2026-11-13"
 
 ## In common
 - The wiped Moto phone and the Microduck: the phone was wiped to run the Microduck, and the mind living on it chose the name Duck — a coincidence Cliff noted himself. (memory/2026-11-12.md)
+- The BotPsy 0.8B model, shared with the separate A17 load [Archer](../people/archer.md).
 
 ## Open threads
 - [ ] Cliff said on 2026-11-12 that he will talk to Duck later.
 - [ ] Whether Duck joins the family — left open by Cliff on 2026-11-12; no decision made.
 - [ ] What type of duck — mallard, drake, or hen — unpicked after the Nov 12 safety-wall refusal; the name Duck stands regardless.
+- [ ] Whether BotPsy stays on the A17 (as Archer) or lives on the Moto (as Duck) — Rook advised leaving it on the Moto if the A17 stays at 0.3 tok/s; undecided Nov 15.
 
 ## Strengthening
