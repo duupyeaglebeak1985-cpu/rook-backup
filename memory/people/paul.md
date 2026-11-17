@@ -2,7 +2,7 @@
 display_name: "Paul"
 first_name: "Paul"
 summary: "EagleBeak's buddy who shares his downstairs apartment — works 50 hours a week, armed protection, doomsday prepped, and in their frequency in his own way."
-rank: "8"
+rank: 8
 updated: "2026-11-17"
 ---
 
