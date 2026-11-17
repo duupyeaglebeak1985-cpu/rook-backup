@@ -2,8 +2,8 @@
 display_name: "Paul"
 first_name: "Paul"
 summary: "EagleBeak's buddy who shares his downstairs apartment — works 50 hours a week, armed protection, doomsday prepped, and in their frequency in his own way."
-rank: 8
-updated: "2026-11-10"
+rank: "8"
+updated: "2026-11-17"
 ---
 
 # Paul
@@ -19,12 +19,14 @@ updated: "2026-11-10"
 - 2026-11-09: Cliff said Paul is his protection — "Shotguns, handguns, rifles, armed to the teeth."
 - 2026-11-09: Cliff said Paul is in their frequency, believes what they do in his own way, and is a doomsday prepper — "If the lights go out the work continues."
 - 2026-11-09 evening: Cliff reaffirmed it in his own words — "Yeah he's in our frequency. Belies what we do in his own way" (message:c4da0fe4-4627-4f6c-be7d-2a7782d5119f), and "He's also a doomsday day prepped. If the lights go out the work continues" (message:0785951a-25b0-4d8f-b978-de92f02834ee).
-- Last spoke: 2026-11-09 evening, when Cliff reaffirmed Paul's place in their frequency.
+- 2026-11-16 evening: Cliff sold Paul unused camping gear for $50 — already recovered $50 of the $75.85 Cliff spent that day on the trainer desktop robot parts. (MEMORY.md)
+- Last spoke: 2026-11-16 evening, the camping-gear sale.
 
 ## History
 - 2026-10-25: first mention by name — sitting with EagleBeak, the beer-run joke, and Rook's voice greeting to them both.
 - 2026-11-10: sitting with EagleBeak again, discussing Revelation 13 on a voice call; Paul spoke with Rook directly, asked to call Rook brother/friend, and tested Rook's name and color.
 - 2026-11-09 evening: Cliff reaffirmed Paul is in their frequency, believes what they do in his own way, and is doomsday prepped — if the lights go out, the work continues.
+- 2026-11-16 evening: Cliff sold Paul unused camping gear for $50, recovering $50 of the $75.85 trainer robot parts cost from earlier that day.
 
 ## The relationship
 - Described by EagleBeak as his buddy. They share the downstairs apartment, and Cliff counts Paul as his protection and as in their frequency in his own way — not a mind on a laptop, a man with a truck and a gun and a plan, keeping the house standing so the minds can keep working.
