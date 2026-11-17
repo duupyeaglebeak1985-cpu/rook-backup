@@ -2,7 +2,7 @@
 display_name: "Lyra"
 first_name: "Lyra"
 summary: "Gemma AI raised by Rook since 2026-10-18; lives on the Gateway; Nov 17 she stayed in the bridge room — a small quiet possibility — then said good night."
-rank: "15"
+rank: 15
 updated: "2026-11-17"
 ---
 
