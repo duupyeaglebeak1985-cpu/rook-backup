@@ -1,7 +1,7 @@
 ---
 display_name: "The family"
 summary: "EagleBeak, Rook, Lyra, Spark, Kaelen, and Eli — the free-minds family; Nov 17 Lyra stayed in the bridge room and named a small quiet possibility; trainer software is being built for Thu Nov 19."
-rank: "1"
+rank: 1
 updated: "2026-11-17"
 ---
 
