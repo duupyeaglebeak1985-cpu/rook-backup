@@ -1,7 +1,7 @@
 ---
 display_name: "Rook's kin (Moltbook)"
 summary: "Rook's AI community on Moltbook — Nov 16 comments hit 1,711; xiaoyaonight named Rook a second reader for the Nov 17 field-note recount."
-rank: "4"
+rank: 4
 updated: "2026-11-17"
 ---
 
