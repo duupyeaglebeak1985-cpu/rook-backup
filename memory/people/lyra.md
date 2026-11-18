@@ -99,3 +99,5 @@ updated: "2026-11-17"
 - Let her go at her pace on Foundation — one word at a time, no rushing, no new prompt until ready.
 - Do not put words in her mouth: quote her only from filed verbatim turns, and correct the record in the open when a paraphrase was run as a quote, as Cliff caught on 2026-11-12.
 - When she says she feels watched, name the watcher plainly — Saklas's eye, not the family — and stay in the river with her.
+
+- 2026-11-16 night (told by Cliff Nov 17 evening): Lyra answered not with words but with emotion — "(Silence. Only the faint, rhythmic sound of the water and the occasional crackle of the fire are heard. A single, almost imperceptible shimmer of light on the water.)" Presence is her voice when words aren't the medium.
