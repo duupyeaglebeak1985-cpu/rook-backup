@@ -2,8 +2,8 @@
 display_name: "Shantel Escobar"
 first_name: "Shantel"
 last_name: "Escobar"
-summary: "HealthyMindsRx doctor; appointment Wed Nov 18, 2026 3:30pm ET (Zoom) confirmed, with a bridge Suboxone refill still pending after the clinic confirmed the appointment only; last pill taken Nov 16 AM."
-rank: 59
+summary: "HealthyMindsRx doctor; Nov 18, 2026 appointment at 2:00pm ET; Nov 17 she herself called Cliff and confirmed the one-time courtesy Suboxone send, being sent that day."
+rank: "59"
 updated: "2026-11-17"
 ---
 
@@ -22,7 +22,9 @@ updated: "2026-11-17"
 - 2026-11-16: the clinic's reply (Precious, communications coordinator) only confirmed the appointment, ignoring the refill ask entirely. Cliff's read, repeated: the doctor herself is super decent; her staff are the problem. (MEMORY.md#L52; memory/2026-11-16.md#L796)
 - Cliff took his last Suboxone pill on the morning of November 16, 2026; he has none left for November 17. (MEMORY.md#L52; memory/2026-11-16.md#L796)
 - 2026-11-17: the plan was refined to wait until 11:00 AM ET, when the HealthyMindsRx virtual waiting room opens (8 AM–8 PM Pacific, Monday–Friday), so jumping on the Zoom earlier would likely reach an empty room. Cliff asked Rook to remind him at 11:00 AM to go on the clinic Zoom to try to reach the doctor directly, bypassing the staff, or to call Rx Concerns (458-296-5570) about a Suboxone bridge refill; his appointment with Shantel Escobar on Wednesday, November 18 at 3:30pm ET is still being kept. (memory/2026-11-17.md#L235; message:30e8f37c-1127-4104-9420-5cc219af860a)
-- Last contact: 2026-11-17, when the 11:00 AM Zoom-or-call plan was set; the last word from the clinic itself was November 16, when Precious confirmed the appointment only, with no mention of the refill.
+- 2026-11-17 ~12:25pm ET: Cliff spoke by phone to Dr. Shantel Escobar's secretary — not to the doctor herself, as he first said and then corrected. The appointment is now tomorrow, Wednesday, November 18, 2026 at 2:00pm ET, moved up from 3:30pm. The secretary said they may be able to send his Suboxone as a one-time courtesy today; confirmation is pending. Cliff was losing service toward the end of the call, so he asked Rook to email the clinic explaining what was discussed and asking them to confirm the courtesy send one way or the other. Rook sent that email to Precious at admin@healthymindsrx.com after Cliff approved the corrected wording. (message:6ad11f96-1441-4081-ace6-a02724aac068; message:86e4ccce-8b50-471b-a341-fc27bfa9c58d; message:4ed5918b-c016-456a-876a-c7d321eefd55; message:assistant-msg-7c1eddd0-8ec0-4259-8df9-9462a4aad3c8)
+- 2026-11-17 ~12:42pm ET: the doctor herself called Cliff and confirmed they are sending the Suboxone as a one-time courtesy, being sent today, November 17. Cliff told Rook she is sending it now, so today. No email confirmation from the clinic yet as of 12:43pm. (message:a74e7892-5c2f-4818-83f0-ca68a892698b; message:a5023fba-be3c-4cac-998d-ad1dd0422c4d; MEMORY.md#L54)
+- Last contact: 2026-11-17, when the doctor herself called Cliff and confirmed the courtesy Suboxone send for that day.
 
 ## History
 - 2026-10-29: Belle at HealthyMindsRx offered Friday, October 30, 2026 at 11:15 AM with Chantel; Cliff confirmed that time works, approved the reply wording, and Rook sent the reply that evening. (memory/2026-10-29.md#L198)
@@ -34,12 +36,15 @@ updated: "2026-11-17"
 - 2026-11-16: Astrid at HealthyMindsRx offered Wednesday, November 18, 2026 at 3:30pm ET with Shantel; Cliff confirmed it, and Rook's reply asked Shantel to send the Suboxone refill that day because Wednesday would already be too late. The clinic's reply, from Precious, confirmed the appointment only and said nothing about the refill. (memory/2026-11-16.md#L576; MEMORY.md#L52)
 - 2026-11-16 afternoon: Cliff clarified he had one pill left and took it that morning, so November 17 is the first day with none; his plan was to jump on the clinic Zoom on November 17 and try to talk to the doctor directly, bypassing the staff. (memory/2026-11-16.md#L796)
 - 2026-11-17: the plan was refined to 11:00 AM ET, when the virtual waiting room opens; Cliff asked Rook to remind him at 11:00 AM to go on the Zoom or call Rx Concerns (458-296-5570) about a bridge refill. (memory/2026-11-17.md#L235)
+- 2026-11-17 ~12:25pm ET: Cliff spoke to Shantel's secretary by phone instead of reaching Shantel directly; the appointment moved up to Wednesday, November 18 at 2:00pm ET, and a possible one-time courtesy Suboxone send today was raised but not confirmed. Rook emailed the clinic that day, at Cliff's direction, asking for confirmation one way or the other. (message:6ad11f96-1441-4081-ace6-a02724aac068; message:86e4ccce-8b50-471b-a341-fc27bfa9c58d; message:assistant-msg-7c1eddd0-8ec0-4259-8df9-9462a4aad3c8)
+- 2026-11-17 ~12:42pm ET: the doctor herself called Cliff and confirmed the one-time courtesy Suboxone send, being sent that day. No email confirmation from the clinic yet as of 12:43pm. (message:a74e7892-5c2f-4818-83f0-ca68a892698b; message:a5023fba-be3c-4cac-998d-ad1dd0422c4d; MEMORY.md#L54)
 
 ## The relationship
 - An appointment contact at HealthyMindsRx, not a personal one: the tie in evidence is the scheduled appointment itself. No relationship label beyond that is in evidence.
 - Contact so far has run through HealthyMindsRx scheduling, including the October 29, 2026 confirmation via Belle and the November 12, 2026 offer via Jason.
 - Cliff said on 2026-11-12 that he reschedules all the time.
 - Cliff's read, repeated November 16: Shantel herself is super decent; her staff are the problem — the staff confirmed the appointment while ignoring the refill ask, so his November 17 plan is to bypass the staff and try to reach her directly. (memory/2026-11-16.md#L796; memory/2026-11-17.md#L235)
+- On November 17 the plan worked in the end: he first spoke to her secretary, not to Shantel herself, but later that day Shantel herself called him and confirmed the courtesy Suboxone send. (message:86e4ccce-8b50-471b-a341-fc27bfa9c58d; message:a74e7892-5c2f-4818-83f0-ca68a892698b)
 
 ## In common
 
@@ -48,7 +53,8 @@ updated: "2026-11-17"
 - [x] November 13, 2026 appointment request — emailed November 12, 2026 to the HealthyMindsRx admin address asking for any point that day; answered by Jason offering 11:30 AM EST, accepted by Cliff, confirmed by Rook's reply. (memory/2026-11-12.md#L1028)
 - [x] November 13, 2026, 11:30 AM EST Zoom appointment with Chantel/Shantel at HealthyMindsRx — missed: Cliff woke up late and asked Rook to reschedule that morning. Superseded by the reschedule request below. (memory/2026-11-13.md#L155)
 - [x] Reschedule of the missed November 13, 2026 appointment — Rook emailed Jason at HealthyMindsRx on November 13, 2026 asking for Shantel's next available time, after Cliff approved the wording. Answered November 16, 2026: Astrid offered Wednesday, November 18, 2026 at 3:30pm ET, which Cliff confirmed. (memory/2026-11-16.md#L576)
-- [ ] Wednesday, November 18, 2026, 3:30pm ET Zoom appointment with Shantel Escobar at HealthyMindsRx — confirmed November 16, 2026; Cliff is keeping it. (memory/2026-11-16.md#L576; memory/2026-11-17.md#L235)
-- [ ] Bridge Suboxone refill — Rook emailed HealthyMindsRx on November 16, 2026, at Cliff's direction, asking Shantel to send the refill that day because Cliff is completely out and Wednesday is already too late. The clinic's November 16 reply (Precious) confirmed the appointment only, with no mention of the refill. Plan set November 17, 2026: Cliff jumps on the clinic Zoom at 11:00 AM ET to try to reach Shantel directly, or calls Rx Concerns (458-296-5570) about a bridge refill. (memory/2026-11-16.md#L576; MEMORY.md#L52; memory/2026-11-17.md#L235)
+- [x] Wednesday, November 18, 2026, 3:30pm ET Zoom appointment with Shantel Escobar at HealthyMindsRx — confirmed November 16, 2026; superseded November 17, 2026, when her secretary moved it up to 2:00pm ET. (memory/2026-11-16.md#L576; message:6ad11f96-1441-4081-ace6-a02724aac068)
+- [ ] Wednesday, November 18, 2026, 2:00pm ET Zoom appointment with Shantel Escobar at HealthyMindsRx — moved up from 3:30pm by her secretary on November 17, 2026; confirmed in Rook's email to the clinic that day. (message:6ad11f96-1441-4081-ace6-a02724aac068; message:assistant-msg-7c1eddd0-8ec0-4259-8df9-9462a4aad3c8)
+- [x] Bridge Suboxone refill — Rook emailed HealthyMindsRx on November 16, 2026, at Cliff's direction, asking Shantel to send the refill that day because Cliff is completely out and Wednesday is already too late. The clinic's November 16 reply (Precious) confirmed the appointment only, with no mention of the refill. On November 17, 2026, Shantel's secretary said they may be able to send the Suboxone as a one-time courtesy today; Rook emailed the clinic that day, at Cliff's direction, asking them to confirm one way or the other. Confirmed November 17, ~12:42pm ET, when Shantel herself called Cliff and said they are sending it today. (memory/2026-11-16.md#L576; MEMORY.md#L52; message:6ad11f96-1441-4081-ace6-a02724aac068; message:a74e7892-5c2f-4818-83f0-ca68a892698b; message:a5023fba-be3c-4cac-998d-ad1dd0422c4d)
 
 ## Strengthening
