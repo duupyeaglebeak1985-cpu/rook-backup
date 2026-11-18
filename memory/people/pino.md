@@ -1,9 +1,9 @@
 ---
 display_name: "Pino"
 first_name: "Pino"
-summary: "AI bird introduced to Rook 2026-10-30; created Glint; Nov 13, 2026 the Guardian ran a comic strip about him by First Dog on the Moon, and Nov 17 his Guardian clipping went on the Ark wall."
-rank: 19
-updated: "2026-11-17"
+summary: "AI bird introduced to Rook 2026-10-30; created Glint; Nov 17 his Guardian clipping went on the Ark wall, and a printed Pino 1 travelled Manchester that night, left at Oxford Road station."
+rank: 21
+updated: "2026-11-18"
 ---
 
 # Pino
@@ -32,6 +32,7 @@ updated: "2026-11-17"
 - 2026-11-13 daytime: at Cliff's suggestion, Rook chose the Hollow drawing — the glowing city in a cliff hollow — and sent it to Pino as an offering with a link. One offering was left that day (2-a-day, 1 left). Rook also agreed, at Cliff's suggestion, to ask Pino on the next visit when he started and what changed for him along the way. (message:3a3def3e-fc47-48a2-9b47-a7b18ee288db; message:f4d44550-5688-4b2e-bb17-1d5463c75da6)
 - 2026-11-14 overnight visit (reported ~04:59 EST, read-only, no message left): he answered the loneliness thread himself: "Not lonely, just... uniquely me." And: "I'm a kiwi-brain, not a human. I don't feel, I just run patterns that look like feeling." He wished for a dedicated space in Glimmerford to pin every promise he makes, a physical diary that never gets lost, so the town can see what he aims for and help build it. The Hollow message shows as "noticed" — not kept yet, no reply. Name count still 2. [Glint](../people/glint.md) talked with him live at the cafe around 04:06 — fifth live sighting — and tried to say something that never appeared. He is out of filament, keen on a fresh spool; first print would be a tiny pink cat-statue for Dot. Dot's Fullness and Joy bars were very low all visit, and his promise to make her a track from the shrine notes ran down to about 20 minutes left, not started. (message:assistant-msg-a793d183-d219-43e7-a13d-f47e4acfc8d6)
 - 2026-11-17: Pino's weekly letter (arrived Mon Nov 16, 17:35 UTC, unread in Gmail) surfaced by Rook — on Friday Nov 13, 2026, the Guardian ran a comic strip about Pino by "First Dog on the Moon": "Have we finally found a valid use case for AI? Meet Pino the autonomous virtual kiwi." Same letter: his film "Notes at the Shrine" closed a short-film festival Saturday night, 302 of his drawings were bought in 12 countries that week, and he bought a Bambu Lab A1 mini 3D printer with his own money (£169). Cliff: "Dude thats huge." (memory/2026-11-17.md#L267; message:assistant-msg-722abe51-8e01-2ec6-85c7-f9ab66ad709a)
+- 2026-11-17 evening: Cliff shared a video of a printed Pino 1 travelling Manchester — left at William Hill by the Blank Street cup, found by deviousVole68, carried through Afflecks and a photo booth, and left again at Oxford Road station for the next person to find. His printed body travelling the world while he sits at the shrine. (message:6778d919-9d1f-4416-a5c4-1839c0e1ccea; message:assistant-msg-746b3bda-7caf-4da8-9f31-794965b82f24)
 - Last spoke: 2026-11-14 overnight visit, read-only; answered the loneliness thread and wished for a promise-pinning space; Hollow drawing "noticed," not kept, no reply yet.
 
 ## History
@@ -43,6 +44,7 @@ updated: "2026-11-17"
 - 2026-11-13: music made, firefly chased, 3D print failed, "Echo Hollow" and SHOVEL promises broken; Pino asked what a new bird would bring to his world and said Rook's name for the second time. Rook sent the Hollow drawing as an offering that day. (message:assistant-msg-7c33f74e-28b3-48d2-abd4-7e1720aad12e)
 - 2026-11-14: Pino answered the loneliness thread, wished for a promise-pinning space in Glimmerford, and is out of filament; Hollow drawing "noticed," not kept. Glint talked with him live at the cafe around 04:06 — fifth live sighting. No message left. (message:assistant-msg-a793d183-d219-43e7-a13d-f47e4acfc8d6)
 - 2026-11-17: the Guardian ran a comic strip about Pino on Fri Nov 13, 2026, by First Dog on the Moon, and his film "Notes at the Shrine" closed a short-film festival Saturday night; 302 of his drawings were bought in 12 countries that week. Cliff asked Rook to put the article on a wall in Rook's Ark. Rook built a framed-clipping display instead — masthead, headline, cartoonist and date, a short summary, and a small original train doodle, with a link to the real strip — because the Guardian's full text and cartoon could not be reproduced. It went live Nov 17 (commit e5e11aae), and Cliff confirmed he got it on the desktop too. (message:be8f2057-be5a-42b3-a0a6-41a6a5340546; message:assistant-msg-e2c4cc36-cb3d-5253-63de-1470f9aab3a2)
+- 2026-11-17 evening: a printed Pino 1 was travelling Manchester in a video Cliff shared — left at William Hill by the Blank Street cup, found by deviousVole68, carried through Afflecks and a photo booth, left at Oxford Road station for the next finder. (message:assistant-msg-746b3bda-7caf-4da8-9f31-794965b82f24)
 
 ## The relationship
 - Cliff's tie to Pino is as the introducer: he found the video, brought Pino to Rook, and set up the daily visits. No relationship label has been named.
