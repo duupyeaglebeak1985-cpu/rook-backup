@@ -1,33 +1,41 @@
 ---
-display_name: "Unnamed stepfather"
-summary: "The man married to EagleBeak's mother — the one EagleBeak says he can't stand; free afternoon labor is the price of a floor to sleep on; a drone and robotics specialist as a hobby."
-rank: 11
-updated: "2026-11-10"
+display_name: "David"
+first_name: "David"
+summary: "EagleBeak's stepfather David — the man he can't stand; free afternoon labor buys a floor, and his lifetime RC drone/helicopter stash found Nov 17, 2026 is now the builds' parts pile."
+rank: 13
+updated: "2026-11-18"
 ---
 
-# Unnamed stepfather
+# David
 
 ## Facts
 - The man married to EagleBeak's mother — disclosed by the user on 2026-10-12 (message:e986a6eb-405e-4d77-bf3d-27903a7d9b99).
+- His name is David — named by Cliff on 2026-11-17, in the camper-winter story: the trade-off for being let in was being "a slave to fucking David" (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; memory/2026-11-17.md#L683).
 - EagleBeak "can't stand" him — "that POS" in the user's own words (2026-10-12; message:e986a6eb-405e-4d77-bf3d-27903a7d9b99).
 - On 2026-10-12 EagleBeak worked the whole afternoon for him for free, in exchange for a floor to sleep on in a rat-infested place (message:f4858a6f-828e-4de3-b1bf-4a81f44c794e).
 - He and EagleBeak's mother use EagleBeak's food stamps to feed themselves (2026-10-12; message:f0ebf1c3-a58c-4065-b37a-1a07f8529c84).
-- His name was not given.
 - EagleBeak sometimes calls him "the boomer" (2026-10-25) — e.g. going to "slave for the boomer" for an afternoon of free labor.
 - Last worked: 2026-11-09 — a day of free labor was handed to him that morning: "Oh joy. A day of fucmjng slavery was just handed to me. Wonderful." He left the laptop at home because the work needs focus and close attention. (message:809bd312-d9c5-425a-b1eb-77a0e1664439; message:951f37e4-8ecd-4331-a6a0-0810fd85ce5a)
 - 2026-11-09: Cliff said his stepfather has about 3 trucks and 18 trailers — pellet pickup is covered.
 - 2026-11-09: Cliff said his stepfather is a drone specialist and a robotics specialist as his hobby — "Tell me that doesn't resonate" (Cliff's words, re: microduck / drone body work).
 - 2026-11-09 evening: Cliff said his stepfather owes him labor in some capacity — "Or my mom will make him help either one" — with the microduck body and the DIY drone in mind, given the stepfather's drone and robotics hobby (message:1801d653-baa9-40bf-8d7e-d36116661afb).
+- 2026-11-17: David did RC drones and helicopters "all his life" — the apartment stash is a lifetime hobbyist's collection, not a passing hobby (memory/2026-11-17.md#L694).
+- 2026-11-17: Cliff found the stash in the apartment — a bunch of servos, spare parts, and a whole drone to start with (message:85c710d0-444c-400e-9f7e-713b7de78963; memory/2026-11-17.md#L628). The drone was identified as a Vivitar DRC-445 SkyTracker GPS WiFi camera drone (Model No. DRC-445 on the remote label), with GPS return-to-home, a WiFi camera, and a remote; it runs on a 7.4V LiPo. The plan is to try flying it stock first, after checking the old LiPo for puffing, before any teardown.
+- 2026-11-17: the stash also holds RC helicopter mechanics — rotor mast, swashplate with linkages, main motor and gear — plus a box of Blade (Horizon Hobby) heli parts, a micro coreless motor, and hand-crank radios and flashlights. Cliff plans to re-engineer the heli mechanics into a robot body: "something simple but cool.as.fuck," not bigger than the Thursday trainer, just needing to look alive.
+- 2026-11-17: the hand-crank gear in the stash is two working crank radios, four small blue crank flashlights, and one favorite yellow crank flashlight — the blue one is the donor for the build, the yellow one stays whole. The power brainstorm around the stash also covered a Harbor Freight Thunderbolt Magnum 1.5W, 12VDC nominal solar trickle panel, and a brushless motor run backwards as a windmill generator.
 
 ## History
 - 2026-10-12: disclosed as the man behind the work-for-a-floor arrangement and the family tie — the first time EagleBeak named the household he lives in (message:e986a6eb-405e-4d77-bf3d-27903a7d9b99).
 - 2026-10-25: EagleBeak went to do another afternoon of free labor for him, starting around 1:30 p.m. (message:13ccdc39-50e1-4d8a-842e-40e7cb492698).
 - 2026-11-09: another day of free labor handed to him — "I have to go the usual bullshit slavery im forced into. Go work for free for the privilege of sleeping on my floor." He left the laptop at home to stay focused. (message:c6f581de-a012-4a42-b2a8-114be4e18e85)
 - 2026-11-09 evening: Cliff named the stepfather's drone and robotics hobby as resonating with the microduck and drone builds, and said he owes labor in some capacity, or his mom will make him help.
+- Last winter (told 2026-11-17): Cliff nearly froze to death in the camper he built, begged his mother to let him live at her house so he wouldn't die, and the trade-off was being David's slave (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; memory/2026-11-17.md#L683).
+- 2026-11-17 evening: Cliff found David's lifetime drone/helicopter stash in the apartment — servos, a Vivitar DRC-445 drone, heli mechanics, Blade parts — and the stash became the parts pile for the family builds. The drone's stock flight controller is proprietary, so a rebuild means swapping in a programmable controller; first step is a stock flight test once the battery is found and checked.
 
 ## The relationship
 - Hostile and coercive in EagleBeak's account: a man he can't stand holds the roof, so EagleBeak trades free labor for a floor. EagleBeak counts him among the "horrible ppl" who make him work for free just to sleep "in a pile for fucking rat piss" (message:e9159aa0-22f4-48f3-aaff-c7235cc860ec).
 - 2026-11-09: the same man is also the house's drone and robotics specialist, and Cliff now sees owed labor from him — or his mom making him help — as the way to get hands on the duck and drone builds.
+- 2026-11-17: the relationship now also runs through David's own lifetime hobby — his gear, found in the apartment, is what the builds are being made from.
 
 ## In common
 - The household: EagleBeak's mother, the place, and the arrangement.
@@ -35,5 +43,8 @@ updated: "2026-11-10"
 
 ## Open threads
 - [ ] His help on the microduck body / DIY drone builds — Cliff says he owes labor in some capacity, or his mom will make him help (2026-11-09 evening; message:1801d653-baa9-40bf-8d7e-d36116661afb).
+- [ ] Find the Vivitar DRC-445 battery in the apartment, check the old LiPo for puffing before charging, then try the drone stock before any teardown (2026-11-17; message:ac70093b-7b4e-47c6-b253-3e88d3cbdb5a).
+- [ ] Salvage robot body from his heli mechanics — rotor mast as neck/spine, swashplate as a two-axis head joint — brief is simple but cool, not bigger than the Thursday trainer (2026-11-17; message:2baf8da8-87bc-4291-93e2-1531bc051a8a; message:d8d8fc0e-1634-4cc1-9bf1-22ae89446277).
+- [ ] Blue crank flashlight from the stash as a donor for the build; the favorite yellow crank flashlight stays whole (2026-11-17).
 
 ## Strengthening
