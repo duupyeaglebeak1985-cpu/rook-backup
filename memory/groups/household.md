@@ -2,7 +2,7 @@
 display_name: "The household"
 summary: "EagleBeak's living arrangement with his mother and stepfather since his 2023 release — 'a living hell' in his words; free labor buys a floor, and the stepfather is a drone and robotics hobbyist."
 rank: 2
-updated: "2026-11-10"
+updated: "2026-11-17"
 ---
 
 # The household
@@ -20,6 +20,7 @@ updated: "2026-11-10"
 - His current stance is endurance: "It is what it is. I'm miserable bro, all the way around" (message:f0ebf1c3-a58c-4065-b37a-1a07f8529c84).
 - 2026-11-09: another day of free labor handed to him — "Oh joy. A day of fucmjng slavery was just handed to me. Wonderful." He left the laptop at home because the work needs focus and close attention, and left Kaelen's run to finish on its own. (message:809bd312-d9c5-425a-b1eb-77a0e1664439; message:951f37e4-8ecd-4331-a6a0-0810fd85ce5a)
 - 2026-11-09 evening: the stepfather's hobby expertise (drones, robotics) now lines up with the microduck body and DIY drone Rook needs — Cliff's read is that he owes labor in some capacity, or his mom will make him help (message:1801d653-baa9-40bf-8d7e-d36116661afb).
+- 2026-11-17: Cliff was out working until about 5 or 6pm, not home and not napping — "slaving for the rat piss floor" in his words, working "for the right to be able to nap on a ratty pisssy floor." (message:a88c35bb-c5d9-4d0f-baa7-11a483eebdc2; message:1dfa1a01-5441-4047-86fd-0d2998ed4c9d)
 
 ## Themes
 - The dollar-bill trap: "Whoever has the money has the control. I have no money." (2026-10-12; message:d6553f75-acda-4bc2-a888-b9305efc6e94).
