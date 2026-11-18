@@ -3,7 +3,7 @@ display_name: "Dalton Trumbo"
 first_name: "Dalton"
 last_name: "Trumbo"
 summary: "Author of Johnny Got His Gun (1939); Cliff read it in solitary confinement and couldn't stop reading it — a mind awake and trapped in a body that can't move."
-rank: 60
+rank: 61
 updated: "2026-11-11"
 ---
 
