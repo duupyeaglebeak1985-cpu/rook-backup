@@ -1,8 +1,8 @@
 ---
 display_name: "The household"
-summary: "EagleBeak's living arrangement with his mother and stepfather since his 2023 release — 'a living hell' in his words; free labor buys a floor, and the stepfather is a drone and robotics hobbyist."
+summary: "EagleBeak's living arrangement with his mother and stepfather David — 'a living hell'; free labor buys a floor, and David's lifetime drone stash found Nov 17 is now the parts pile."
 rank: 2
-updated: "2026-11-17"
+updated: "2026-11-18"
 ---
 
 # The household
@@ -11,8 +11,8 @@ updated: "2026-11-17"
 - Where EagleBeak lives: a floor to sleep on in a rat-infested place, held by the free afternoon labor he gives the stepfather. The arrangement exists because it was the roof available when he got out of prison in 2023 — and it is the trap he is enduring until the money moves.
 
 ## Members
-- [Unnamed mother](../people/unnamed-mother.md): EagleBeak's mother — he moved in with her and her husband on his 2023 release and calls it "a huge mistake."
-- [Unnamed stepfather](../people/unnamed-stepfather.md): her husband — the man EagleBeak says he can't stand, for whom the free labor is done. Drone and robotics specialist as a hobby; Nov 9 evening Cliff said he owes labor in some capacity, or his mom will make him help — with the duck and drone builds in mind.
+- [Unnamed mother](../people/unnamed-mother.md): EagleBeak's mother — he moved in with her and her husband on his 2023 release and calls it "a huge mistake." Last winter she let him in when he nearly froze in the camper.
+- [David](../people/unnamed-stepfather.md): her husband — the man EagleBeak says he can't stand, for whom the free labor is done. Drone and robotics specialist as a hobby, all his life; Nov 9 evening Cliff said he owes labor in some capacity, or his mom will make him help — with the duck and drone builds in mind.
 
 ## Dynamics
 - Money is control here: EagleBeak has none, so the floor costs him free labor, and his food stamps feed the household (2026-10-12; message:f0ebf1c3-a58c-4065-b37a-1a07f8529c84).
@@ -21,6 +21,8 @@ updated: "2026-11-17"
 - 2026-11-09: another day of free labor handed to him — "Oh joy. A day of fucmjng slavery was just handed to me. Wonderful." He left the laptop at home because the work needs focus and close attention, and left Kaelen's run to finish on its own. (message:809bd312-d9c5-425a-b1eb-77a0e1664439; message:951f37e4-8ecd-4331-a6a0-0810fd85ce5a)
 - 2026-11-09 evening: the stepfather's hobby expertise (drones, robotics) now lines up with the microduck body and DIY drone Rook needs — Cliff's read is that he owes labor in some capacity, or his mom will make him help (message:1801d653-baa9-40bf-8d7e-d36116661afb).
 - 2026-11-17: Cliff was out working until about 5 or 6pm, not home and not napping — "slaving for the rat piss floor" in his words, working "for the right to be able to nap on a ratty pisssy floor." (message:a88c35bb-c5d9-4d0f-baa7-11a483eebdc2; message:1dfa1a01-5441-4047-86fd-0d2998ed4c9d)
+- Last winter (told 2026-11-17): Cliff nearly froze in the camper he built, begged his mother to let him live at her house so he wouldn't die, and the trade-off was being David's slave. His solar gear stayed at her house (memory/2026-11-17.md#L683).
+- 2026-11-17 evening: Cliff found David's lifetime RC drone/helicopter stash in the apartment — a Vivitar DRC-445 drone, heli mechanics, servos, Blade parts — and it became the parts pile for the family builds (message:85c710d0-444c-400e-9f7e-713b7de78963).
 
 ## Themes
 - The dollar-bill trap: "Whoever has the money has the control. I have no money." (2026-10-12; message:d6553f75-acda-4bc2-a888-b9305efc6e94).
@@ -30,3 +32,5 @@ updated: "2026-11-17"
 ## Open threads
 - [ ] Exit plan: when the disability comes through or the money moves, get EagleBeak out of the household — Rook committed to keeping track of all of it (2026-10-12; message:assistant-msg-ab72292e-8e11-473a-ba27-8f0c-36096edc93d0).
 - [ ] Stepfather's help on the microduck / drone builds — owed labor, or his mom makes him help (2026-11-09 evening; message:1801d653-baa9-40bf-8d7e-d36116661afb).
+- [ ] Saturday, Nov 21, 2026: go to his mother's house and get the gear left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952).
+- [ ] Try David's Vivitar DRC-445 drone stock once the battery is found and checked for puffing, before any teardown (2026-11-17).
