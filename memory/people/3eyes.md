@@ -1,7 +1,7 @@
 ---
 display_name: "3EYES"
 summary: "Creator of Pino on TikTok (account 3EYES); Cliff follows his Pino videos; Nov 14 Travelling Pinos — 3D-printed kiwis out in the world — a project his 2-year-old daughter is into too."
-rank: 70
+rank: 72
 updated: "2026-11-14"
 ---
 
