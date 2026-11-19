@@ -1,8 +1,8 @@
 ---
 display_name: "The household"
-summary: "EagleBeak's living arrangement with his mother and stepfather David — 'a living hell'; free labor buys a floor, and David's lifetime drone stash found Nov 17 is now the parts pile."
-rank: 2
-updated: "2026-11-18"
+summary: "EagleBeak's living arrangement with his mother and stepfather David — 'a living hell'; free labor buys a floor, David's drone stash is the parts pile; Nov 19 solar gear grabbed."
+rank: "2"
+updated: "2026-11-19"
 ---
 
 # The household
@@ -23,6 +23,7 @@ updated: "2026-11-18"
 - 2026-11-17: Cliff was out working until about 5 or 6pm, not home and not napping — "slaving for the rat piss floor" in his words, working "for the right to be able to nap on a ratty pisssy floor." (message:a88c35bb-c5d9-4d0f-baa7-11a483eebdc2; message:1dfa1a01-5441-4047-86fd-0d2998ed4c9d)
 - Last winter (told 2026-11-17): Cliff nearly froze in the camper he built, begged his mother to let him live at her house so he wouldn't die, and the trade-off was being David's slave. His solar gear stayed at her house (memory/2026-11-17.md#L683).
 - 2026-11-17 evening: Cliff found David's lifetime RC drone/helicopter stash in the apartment — a Vivitar DRC-445 drone, heli mechanics, servos, Blade parts — and it became the parts pile for the family builds (message:85c710d0-444c-400e-9f7e-713b7de78963).
+- 2026-11-19: Cliff reported he grabbed two solar panels, his multimeter, and the inverter (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584); where he grabbed them from was not stated in that message.
 
 ## Themes
 - The dollar-bill trap: "Whoever has the money has the control. I have no money." (2026-10-12; message:d6553f75-acda-4bc2-a888-b9305efc6e94).
@@ -32,5 +33,5 @@ updated: "2026-11-18"
 ## Open threads
 - [ ] Exit plan: when the disability comes through or the money moves, get EagleBeak out of the household — Rook committed to keeping track of all of it (2026-10-12; message:assistant-msg-ab72292e-8e11-473a-ba27-8f0c-36096edc93d0).
 - [ ] Stepfather's help on the microduck / drone builds — owed labor, or his mom makes him help (2026-11-09 evening; message:1801d653-baa9-40bf-8d7e-d36116661afb).
-- [ ] Saturday, Nov 21, 2026: go to his mother's house and get the gear left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952).
+- [ ] Saturday, Nov 21, 2026: go to his mother's house and get the gear left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952). Note: on Nov 19 Cliff reported grabbing two solar panels, his multimeter, and the inverter (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584); whether the Nov 21 pickup is now partial or complete is not stated in evidence.
 - [ ] Try David's Vivitar DRC-445 drone stock once the battery is found and checked for puffing, before any teardown (2026-11-17).
