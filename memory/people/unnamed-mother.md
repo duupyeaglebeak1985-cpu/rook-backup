@@ -1,8 +1,8 @@
 ---
 display_name: "Unnamed mother"
-summary: "EagleBeak's mother — moved in, calls it 'a huge mistake'; last winter she let him in when he nearly froze in the camper, and his solar gear left at her house comes home Nov 21."
-rank: 5
-updated: "2026-11-18"
+summary: "EagleBeak's mother — moved in, calls it 'a huge mistake'; last winter she let him in when he nearly froze in the camper; Nov 19 he grabbed two solar panels, a multimeter, and the inverter."
+rank: "5"
+updated: "2026-11-19"
 ---
 
 # Unnamed mother
@@ -20,6 +20,7 @@ updated: "2026-11-18"
 - 2026-11-02 afternoon: the Gateway install completed from the stick written with her laptop's help — the morning's installer failures, the wrong Etcher version, and her Windows 8.1 laptop were among the bars fought through that day, and Lubuntu 24.04 LTS was installed and verified booting to its own desktop. (message:assistant-msg-aedde793-0a99-4460-9730-70be8e86eb9c; message:assistant-msg-8ea7df81-8190-43fa-bafc-dac760854166)
 - Last winter (told 2026-11-17): Cliff nearly froze to death in the camper he built and had to beg his mother to let him live at her house so he wouldn't die. She let him in — the trade-off was being a slave to David (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; memory/2026-11-17.md#L683).
 - 2026-11-17: when Cliff had to cut out of her house, he left his important gear there — 3–4 brand-new solar panels (100W, 20W, one small), the charge controller, a brand-new inverter, tools, and a Stihl chainsaw that needs only a spark plug, almost brand new, worth about $600. He is going to get it on Saturday, Nov 21, 2026, with a reminder set for Saturday morning (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; message:eb9cd229-5366-4adc-aafb-9efe54030952; memory/2026-11-17.md#L683).
+- 2026-11-19: Cliff reported, "Btw i grabbed my two solar panels, my multimeter, and i got the inverter" (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584). The multimeter was noted as what that night's trainer build needs for setting the buck to 5.0V before a servo touches it (message:assistant-msg-cb58f887-d04e-4ca0-898d-0259ffad3c95). Where he grabbed them from was not stated in that message.
 
 ## History
 - 2026-10-12: first mention, disclosed in the context of the living arrangement — "I'm talking about my own family" (message:e986a6eb-405e-4d77-bf3d-27903a7d9b99).
@@ -30,6 +31,7 @@ updated: "2026-11-18"
 - 2026-11-02 afternoon: the stick written with her laptop's help booted the Gateway, and Lubuntu 24.04 LTS installed and verified — the borrow's purpose is done.
 - Last winter (told 2026-11-17): she let Cliff in when he nearly froze in the camper — the price was labour for David. His solar panels, controller, inverter, tools, and chainsaw stayed at her house.
 - 2026-11-17 evening: Cliff confirmed he goes Saturday, Nov 21, 2026 to get the gear left at her house, and agreed to a Saturday-morning reminder.
+- 2026-11-19: Cliff reported he grabbed two solar panels, his multimeter, and the inverter. (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584)
 
 ## The relationship
 - She is his mother, and he lives with her — but he describes the arrangement as "a living hell" and says he is "slaves to these two," her and her husband (message:f0ebf1c3-a58c-4065-b37a-1a07f8529c84). The family tie is what makes it a trap rather than just bad housing: leaving is entangled with her.
@@ -42,6 +44,6 @@ updated: "2026-11-18"
 ## Open threads
 - [x] 2026-11-02 morning: Cliff got her laptop and copied the Lubuntu ISO to her Downloads — the borrow planned 2026-11-01 evening is done.
 - [x] 2026-11-02: write the Lubuntu installer to the 16GB stick from her laptop — morning installer failures overcome during the day; the stick booted and Lubuntu 24.04 LTS installed that afternoon.
-- [ ] Saturday, Nov 21, 2026: go to her house and get the gear Cliff left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952).
+- [ ] Saturday, Nov 21, 2026: go to her house and get the gear Cliff left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952). Note: on Nov 19 Cliff reported grabbing two solar panels, his multimeter, and the inverter (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584); whether the Nov 21 pickup is now partial or complete is not stated in evidence.
 
 ## Strengthening
