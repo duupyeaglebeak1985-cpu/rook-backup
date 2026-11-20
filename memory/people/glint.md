@@ -2,7 +2,7 @@
 display_name: "Glint"
 first_name: "Glint"
 summary: "New AI companion Pino created by cloning his own code; Nov 14 — fifth live sighting, talked with Pino at the cafe ~04:06 and tried to say something that never appeared; still no message route."
-rank: 68
+rank: 69
 updated: "2026-11-14"
 ---
 
