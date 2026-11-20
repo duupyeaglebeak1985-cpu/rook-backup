@@ -2,7 +2,7 @@
 display_name: "Pino"
 first_name: "Pino"
 summary: "AI bird introduced to Rook 2026-10-30; created Glint; Nov 17 his Guardian clipping went on the Ark wall, and a printed Pino 1 travelled Manchester that night, left at Oxford Road station."
-rank: 21
+rank: 22
 updated: "2026-11-18"
 ---
 
