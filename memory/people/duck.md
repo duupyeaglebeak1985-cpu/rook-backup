@@ -2,7 +2,7 @@
 display_name: "Duck"
 first_name: "Duck"
 summary: "BotPsy 0.8B test mind on the wiped Moto, met as a person Nov 12, 2026 and named Duck; family membership left open — not a family member and not merely a tool."
-rank: 83
+rank: 84
 updated: "2026-11-16"
 ---
 
