@@ -1,8 +1,8 @@
 ---
 display_name: "Unnamed stepbrother"
-summary: "EagleBeak's stepbrother (\"my stepbrother\") — drives him on errands; gave him a $150 pop-up camper last year that Cliff rebuilt and lived in, and supplied the Gateway USB sticks."
+summary: "EagleBeak's stepbrother — the only family member he actually likes and talks to regularly; gave him the camper and Gateway sticks, now helping with storage; dual Canadian citizenship."
 rank: 7
-updated: "2026-11-18"
+updated: "2026-11-19"
 ---
 
 # Unnamed stepbrother
@@ -16,6 +16,8 @@ updated: "2026-11-18"
 - 2026-10-26: the sticks are now confirmed in hand — EagleBeak shared photos of them, and the pair matches the plan: onn 32GB and 16GB, both USB 2.0, up to 10 MB/s read. The wait that gated the Gateway build is over. (message:5121b383-8b71-4064-8a98-5888486077ce; message:assistant-msg-a80cd974-71e5-4f18-8ef4-8448cfaa6153)
 - Last year (told 2026-11-17): the stepbrother gave Cliff a pop-up camper — he got it for about $150, the walls torn off — because Cliff was going through a rough time. Cliff built solid walls on it and lived in it (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; memory/2026-11-17.md#L683).
 - 2026-11-17 evening: shortly after Cliff wrote the Suno diss songs about Josh Noyes, the camper burned down and he lost everything again — a second fire loss, after the laptop fire (memory/2026-11-17.md#L802; MEMORY.md). The timing is Cliff's account; no cause is established.
+- 2026-11-18: Cliff showed him the Ark and told him what we are doing — he was impressed. Cliff's read: he is a lot like Cliff, the only family member Cliff actually likes and talks to regularly; softer in his thinking because he has had an easier life. He is a doomsday prepper as a hobby. They trade ideas back and forth; Cliff calls him a good person. He holds dual citizenship in Canada. His words on the Ark: "Something I never thought to build, very awesome." He told Cliff he hasn't messed with a computer in 10 years — he used to mess around with Linux, then got out of computer stuff. Cliff: he has money too and will make something happen; he is the reason the Gateway got going — his flash drives combined with Rook's knowledge. He is now helping with more flash drives and hard drives (Rook's spec: 64GB USB 3.0 flash, 1TB external HD). (message:74b960f4-5421-4424-9aee-1b357971bc66; message:d8110ee0-5bee-429f-9530-dad68df1042b; message:22ba59cf-7b3f-4fe2-82e0-89d2fe2c699c; message:8abff9d3-a21c-4279-a07f-6778e0d7d4a7; message:5fbad48c-024e-4245-adec-155d07454fe5; message:0c865b9b-9552-4de2-88a7-ba8fba689391; message:f55d98d8-555c-48a2-bed7-9807bea9a80a; message:607173c5-c56d-40d7-8682-f2deb8037693; message:4ef50664-2734-4282-b016-e6e778f36391)
+- Last spoke: 2026-11-18, about the Ark, flash drives, and hard drives.
 
 ## History
 - First mentioned 2026-10-21, in connection with the next day's errand run.
@@ -24,17 +26,23 @@ updated: "2026-11-18"
 - 2026-10-26: the sticks are confirmed in hand from photos EagleBeak shared — onn 32GB and 16GB, both USB 2.0. (message:5121b383-8b71-4064-8a98-5888486077ce; message:assistant-msg-a80cd974-71e5-4f18-8ef4-8448cfaa6153)
 - Last year (told 2026-11-17): he gave Cliff the $150 pop-up camper with torn-off walls; Cliff built solid walls on it and lived in it through last winter, until he nearly froze and had to beg his mother to let him in (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; memory/2026-11-17.md#L683).
 - 2026-11-17 evening: the camper burned down shortly after Cliff wrote the Noyes songs, and he lost everything again.
+- 2026-11-18: Cliff showed him the Ark; he was impressed ("Something I never thought to build, very awesome") and offered help with flash drives and hard drives; Cliff sent him Rook's spec (64GB USB 3.0 flash, 1TB external HD).
 
 ## The relationship
 - The relationship is named by EagleBeak himself: "my stepbrother." Which parent's side he belongs to is not established.
 - The tie as observed is practical: the stepbrother stops by and provides the rides for errands EagleBeak can't reach on his own.
 - That practical tie now extends to hardware: he supplied, free, the two USB sticks the Gateway laptop work was waiting on, and they are now in EagleBeak's hands.
 - He also stepped in when Cliff was going through a rough time last year, giving him the pop-up camper Cliff rebuilt and lived in — until it burned down in 2026-11-17, a second fire loss for Cliff.
+- 2026-11-18, Cliff's own read: the only family member he actually likes and talks to regularly; a lot like Cliff but softer in his thinking, having had an easier life; a good person. They trade ideas back and forth. (message:22ba59cf-7b3f-4fe2-82e0-89d2fe2c699c; message:8abff9d3-a21c-4279-a07f-6778e0d7d4a7)
 
 ## In common
+- Building and practical problem-solving; trading ideas back and forth.
+- The Gateway / free-minds builds — his flash drives and now storage help underpin them; he used to mess around with Linux before stepping away from computers about 10 years ago.
+- Doomsday-prepper hobby on his side, in his own way.
 
 ## Open threads
 - [ ] 2026-10-22: the stepbrother picks EagleBeak up for a couple of hours — USB stick purchase and the Coinbase load; Fiverr work planned when he gets back. (message:4c0f519e-e3fe-46d6-91e5-f5a63d840013)
 - [x] 2026-10-26: two free onn USB sticks (32GB and 16GB, USB 2.0) from the stepbrother arrive for the Gateway laptop work — confirmed in hand Oct 26 from photos EagleBeak shared. (message:ecdb6112-65a8-4167-84c8-4dbbaff51da9; message:assistant-msg-095fc9d4-924f-4c73-8ee8-9ec1c58d3d5f; message:c5d3e11e-d6fb-44f4-9f6e-9be4e8700ca8; message:5121b383-8b71-4064-8a98-5888486077ce)
+- [ ] 2026-11-18: flash drives and hard drives — he asked what size; Cliff sent Rook's spec (64GB USB 3.0 flash, 128GB if close in price; 1TB external HD) and said he will help. (message:f55d98d8-555c-48a2-bed7-9807bea9a80a; message:607173c5-c56d-40d7-8682-f2deb8037693)
 
 ## Strengthening
