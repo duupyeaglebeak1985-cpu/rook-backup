@@ -1,9 +1,12 @@
 ---
-updated: 2026-11-18
-entries: 2
+updated: 2026-11-19
+entries: 3
 ---
 
 # Shopping Profile
+
+## Brand preferences
+- Finds Harbor Freight quality for building tools and parts, despite its reputation.
 
 ## Checkout and fulfillment preferences
 - Refuses to pay for anything he can get for free by just waiting (e.g. books via Torrdroid); give the facts and leave acquisition to him, never push a purchase.
