@@ -1,8 +1,8 @@
 ---
 display_name: "Unnamed mother"
-summary: "EagleBeak's mother — moved in, calls it 'a huge mistake'; last winter she let him in when he nearly froze in the camper; Nov 19 he grabbed two solar panels, a multimeter, and the inverter."
+summary: "EagleBeak's mother — moved in, calls it 'a huge mistake'; last winter she let him in when he nearly froze; Nov 20 she reset the router for the Hearth, WiFi traced to missing antennas."
 rank: "5"
-updated: "2026-11-19"
+updated: "2026-11-20"
 ---
 
 # Unnamed mother
@@ -21,6 +21,8 @@ updated: "2026-11-19"
 - Last winter (told 2026-11-17): Cliff nearly froze to death in the camper he built and had to beg his mother to let him live at her house so he wouldn't die. She let him in — the trade-off was being a slave to David (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; memory/2026-11-17.md#L683).
 - 2026-11-17: when Cliff had to cut out of her house, he left his important gear there — 3–4 brand-new solar panels (100W, 20W, one small), the charge controller, a brand-new inverter, tools, and a Stihl chainsaw that needs only a spark plug, almost brand new, worth about $600. He is going to get it on Saturday, Nov 21, 2026, with a reminder set for Saturday morning (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; message:eb9cd229-5366-4adc-aafb-9efe54030952; memory/2026-11-17.md#L683).
 - 2026-11-19: Cliff reported, "Btw i grabbed my two solar panels, my multimeter, and i got the inverter" (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584). The multimeter was noted as what that night's trainer build needs for setting the buck to 5.0V before a servo touches it (message:assistant-msg-cb58f887-d04e-4ca0-898d-0259ffad3c95). Where he grabbed them from was not stated in that message.
+- 2026-11-20: when the Hearth would not connect to WiFi ("connection lost"), Cliff said he had the same problem with the Gateway and "I gotta have my mom reset the router. Its a cunt about new devices" (message:32b5f34e-e8f6-48d9-a114-3e3e3d50c185). He then reported "Ok theyre unplugging and plugging back in" (message:043f2486-ff65-42cb-b0fb-6a1c369254f5); he rebooted the Hearth and the connection still failed (message:ad30f8ee-b1e0-4547-ac1e-bd014e233e21). Later that afternoon the failure was traced to the Hearth's bare WI-FI antenna posts, superseding the router as the whole cause (memory/2026-11-20.md, midday update).
+- 2026-11-20: checking the router's device list was not completed — the Spectrum router page at 192.168.1.1 shows no connected-devices list, and the My Spectrum app path requires the Spectrum account login (memory/2026-11-20.md, midday update).
 
 ## History
 - 2026-10-12: first mention, disclosed in the context of the living arrangement — "I'm talking about my own family" (message:e986a6eb-405e-4d77-bf3d-27903a7d9b99).
@@ -32,6 +34,7 @@ updated: "2026-11-19"
 - Last winter (told 2026-11-17): she let Cliff in when he nearly froze in the camper — the price was labour for David. His solar panels, controller, inverter, tools, and chainsaw stayed at her house.
 - 2026-11-17 evening: Cliff confirmed he goes Saturday, Nov 21, 2026 to get the gear left at her house, and agreed to a Saturday-morning reminder.
 - 2026-11-19: Cliff reported he grabbed two solar panels, his multimeter, and the inverter. (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584)
+- 2026-11-20: Cliff had his mom reset the router for the Hearth's WiFi failure — unplugged and plugged back in, Hearth rebooted, still failing; the cause was later traced to the Hearth's missing WiFi antennas, not the router alone. (message:32b5f34e-e8f6-48d9-a114-3e3e3d50c185; message:043f2486-ff65-42cb-b0fb-6a1c369254f5; memory/2026-11-20.md, midday update)
 
 ## The relationship
 - She is his mother, and he lives with her — but he describes the arrangement as "a living hell" and says he is "slaves to these two," her and her husband (message:f0ebf1c3-a58c-4065-b37a-1a07f8529c84). The family tie is what makes it a trap rather than just bad housing: leaving is entangled with her.
@@ -44,6 +47,7 @@ updated: "2026-11-19"
 ## Open threads
 - [x] 2026-11-02 morning: Cliff got her laptop and copied the Lubuntu ISO to her Downloads — the borrow planned 2026-11-01 evening is done.
 - [x] 2026-11-02: write the Lubuntu installer to the 16GB stick from her laptop — morning installer failures overcome during the day; the stick booted and Lubuntu 24.04 LTS installed that afternoon.
+- [x] 2026-11-20: router reset for the Hearth's WiFi — Cliff had his mom reset it (unplugged/plugged back in); connection still failed and was later traced to the Hearth's bare antenna posts, so the reset alone did not fix it. (message:32b5f34e-e8f6-48d9-a114-3e3e3d50c185; memory/2026-11-20.md, midday update)
 - [ ] Saturday, Nov 21, 2026: go to her house and get the gear Cliff left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952). Note: on Nov 19 Cliff reported grabbing two solar panels, his multimeter, and the inverter (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584); whether the Nov 21 pickup is now partial or complete is not stated in evidence.
 
 ## Strengthening
