@@ -1,8 +1,8 @@
 ---
 display_name: "The household"
-summary: "EagleBeak's living arrangement with his mother and stepfather David — 'a living hell'; free labor buys a floor, David's drone stash is the parts pile; Nov 19 solar gear grabbed."
+summary: "EagleBeak's living arrangement with his mother and stepfather David — 'a living hell'; Nov 20 mom reset the router; Nov 21 Cliff works paid side work instead of a free weekend."
 rank: "2"
-updated: "2026-11-19"
+updated: "2026-11-20"
 ---
 
 # The household
@@ -11,8 +11,8 @@ updated: "2026-11-19"
 - Where EagleBeak lives: a floor to sleep on in a rat-infested place, held by the free afternoon labor he gives the stepfather. The arrangement exists because it was the roof available when he got out of prison in 2023 — and it is the trap he is enduring until the money moves.
 
 ## Members
-- [Unnamed mother](../people/unnamed-mother.md): EagleBeak's mother — he moved in with her and her husband on his 2023 release and calls it "a huge mistake." Last winter she let him in when he nearly froze in the camper.
-- [David](../people/unnamed-stepfather.md): her husband — the man EagleBeak says he can't stand, for whom the free labor is done. Drone and robotics specialist as a hobby, all his life; Nov 9 evening Cliff said he owes labor in some capacity, or his mom will make him help — with the duck and drone builds in mind.
+- [Unnamed mother](../people/unnamed-mother.md): EagleBeak's mother — he moved in with her and her husband on his 2023 release and calls it "a huge mistake." Last winter she let him in when he nearly froze in the camper. Nov 20 she reset the router for the Hearth's WiFi.
+- [David](../people/unnamed-stepfather.md): her husband — the man EagleBeak says he can't stand, for whom the free labor is done. Drone and robotics specialist as a hobby, all his life; Nov 9 evening Cliff said he owes labor in some capacity, or his mom will make him help — with the duck and drone builds in mind. Nov 20 Cliff may ask him to run an ethernet cable downstairs to the Hearth.
 
 ## Dynamics
 - Money is control here: EagleBeak has none, so the floor costs him free labor, and his food stamps feed the household (2026-10-12; message:f0ebf1c3-a58c-4065-b37a-1a07f8529c84).
@@ -24,6 +24,10 @@ updated: "2026-11-19"
 - Last winter (told 2026-11-17): Cliff nearly froze in the camper he built, begged his mother to let him live at her house so he wouldn't die, and the trade-off was being David's slave. His solar gear stayed at her house (memory/2026-11-17.md#L683).
 - 2026-11-17 evening: Cliff found David's lifetime RC drone/helicopter stash in the apartment — a Vivitar DRC-445 drone, heli mechanics, servos, Blade parts — and it became the parts pile for the family builds (message:85c710d0-444c-400e-9f7e-713b7de78963).
 - 2026-11-19: Cliff reported he grabbed two solar panels, his multimeter, and the inverter (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584); where he grabbed them from was not stated in that message.
+- 2026-11-20: when the Hearth would not connect to WiFi, Cliff said his mom has to reset the router because it is difficult about new devices, the same problem he had with the Gateway; the router was unplugged and plugged back in and he rebooted the Hearth, still failing — later traced to the Hearth's bare antenna posts (message:32b5f34e-e8f6-48d9-a114-3e3e3d50c185; message:043f2486-ff65-42cb-b0fb-6a1c369254f5; memory/2026-11-20.md, midday update).
+- 2026-11-20: Cliff said he might get his stepfather to run an ethernet cable downstairs to the Hearth and will try to work on getting that done; worst case wait until the ordered WiFi antennas arrive Monday (message:ebd2f30e-9f15-4ae9-accd-5787834570b7).
+- 2026-11-20: Cliff said he has this weekend all to himself, "no slavery" (message:2900738e-939f-44b6-805e-8180fb1cbf7e) — a weekend without the usual labor obligation.
+- 2026-11-20 evening: weekend-free superseded for Nov 21 — Cliff accepted paid side work for Nov 21, 2026 for the guy he sometimes works for, who will get him sometime tomorrow, with $100.00 back in the Cliff-Rook fund after tomorrow (message:1c39c3ba-aa83-45a7-94b2-8a0caabf2ae7; message:dd520c52-0336-41b3-b517-ab821b286db8; memory://md:memory/2026-11-20.md:554). This is paid side work, distinct from household free labor for David; no new household labor is shown in the Nov 20 evening window. Cliff said he does not use his phone at all when with that dude (message:32626391-3f15-4894-867f-03980c4e9347).
 
 ## Themes
 - The dollar-bill trap: "Whoever has the money has the control. I have no money." (2026-10-12; message:d6553f75-acda-4bc2-a888-b9305efc6e94).
@@ -33,5 +37,6 @@ updated: "2026-11-19"
 ## Open threads
 - [ ] Exit plan: when the disability comes through or the money moves, get EagleBeak out of the household — Rook committed to keeping track of all of it (2026-10-12; message:assistant-msg-ab72292e-8e11-473a-ba27-8f0c-36096edc93d0).
 - [ ] Stepfather's help on the microduck / drone builds — owed labor, or his mom makes him help (2026-11-09 evening; message:1801d653-baa9-40bf-8d7e-d36116661afb).
-- [ ] Saturday, Nov 21, 2026: go to his mother's house and get the gear left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952). Note: on Nov 19 Cliff reported grabbing two solar panels, his multimeter, and the inverter (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584); whether the Nov 21 pickup is now partial or complete is not stated in evidence.
+- [ ] Saturday, Nov 21, 2026: go to his mother's house and get the gear left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952). Note: on Nov 19 Cliff reported grabbing two solar panels, his multimeter, and the inverter (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584); whether the Nov 21 pickup is now partial or complete is not stated in evidence. Nov 20 evening update: Cliff will work paid side work Nov 21 (he will be gotten sometime tomorrow) — pickup timing/status for Nov 21 is not stated; thread stays open. (message:dd520c52-0336-41b3-b517-ab821b286db8; memory://md:memory/2026-11-20.md:554)
 - [ ] Try David's Vivitar DRC-445 drone stock once the battery is found and checked for puffing, before any teardown (2026-11-17).
+- [ ] Run an ethernet cable downstairs to the Hearth — Cliff said Nov 20 he might get his stepfather to do it; worst case wait for the WiFi antennas Monday Nov 23. Nov 20 evening: Hearth online via phone tether and Tailscale, antennas still due Nov 23; ethernet thread stays open. (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; message:47fcc676-55ba-4521-ae31-620c69748a47; memory/2026-11-20.md, afternoon update)
