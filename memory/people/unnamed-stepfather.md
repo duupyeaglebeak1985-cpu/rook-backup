@@ -1,9 +1,9 @@
 ---
 display_name: "David"
 first_name: "David"
-summary: "EagleBeak's stepfather David — the man he can't stand; free labor buys a floor, his drone stash is the builds' parts pile; Nov 19 an Alienware lead via a kid he knows fell through."
-rank: 13
-updated: "2026-11-19"
+summary: "EagleBeak's stepfather David — the man he can't stand; free labor buys a floor, his drone stash is the builds' parts pile; Nov 20 Cliff may ask him to run ethernet to the Hearth."
+rank: "13"
+updated: "2026-11-20"
 ---
 
 # David
@@ -24,6 +24,8 @@ updated: "2026-11-19"
 - 2026-11-17: the stash also holds RC helicopter mechanics — rotor mast, swashplate with linkages, main motor and gear — plus a box of Blade (Horizon Hobby) heli parts, a micro coreless motor, and hand-crank radios and flashlights. Cliff plans to re-engineer the heli mechanics into a robot body: "something simple but cool.as.fuck," not bigger than the Thursday trainer, just needing to look alive.
 - 2026-11-17: the hand-crank gear in the stash is two working crank radios, four small blue crank flashlights, and one favorite yellow crank flashlight — the blue one is the donor for the build, the yellow one stays whole. The power brainstorm around the stash also covered a Harbor Freight Thunderbolt Magnum 1.5W, 12VDC nominal solar trickle panel, and a brushless motor run backwards as a windmill generator.
 - 2026-11-19: Cliff was about to look at an Alienware gaming PC in about an hour belonging to a kid his stepfather knows who lives next door — "Kid that my stepfather knows is here and he lives next door. Ill take a look at ut take some pics and send em to you" (message:1761ec01-62b7-47a6-b49f-9b73ac3fb093). Shortly after, Cliff said it might not happen: "Alienware might not hapoen this kids already saying i gotta wait to see it. Fuck him" (message:ea7ba6f6-dc62-45dd-bfb2-f7fefb489a34).
+- 2026-11-20: Cliff said "I might be able to get my step father to run an ethernet cable downstairs. Ill try to work on getting that done. Worst case scenario, we have to wait til Monday" — the ethernet run is a possible way to get the Hearth online while its WiFi antennas are missing, with the ordered antennas due Monday as the fallback (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; memory/2026-11-20.md, afternoon update).
+- 2026-11-20: Cliff said he has this weekend all to himself, "no slavery" (message:2900738e-939f-44b6-805e-8180fb1cbf7e) — no free-labor day for David this weekend, per that statement.
 
 ## History
 - 2026-10-12: disclosed as the man behind the work-for-a-floor arrangement and the family tie — the first time EagleBeak named the household he lives in (message:e986a6eb-405e-4d77-bf3d-27903a7d9b99).
@@ -33,11 +35,13 @@ updated: "2026-11-19"
 - Last winter (told 2026-11-17): Cliff nearly froze to death in the camper he built, begged his mother to let him live at her house so he wouldn't die, and the trade-off was being David's slave (message:c7ca39d7-31c2-41ef-a8d8-ef20653b8a85; memory/2026-11-17.md#L683).
 - 2026-11-17 evening: Cliff found David's lifetime drone/helicopter stash in the apartment — servos, a Vivitar DRC-445 drone, heli mechanics, Blade parts — and the stash became the parts pile for the family builds. The drone's stock flight controller is proprietary, so a rebuild means swapping in a programmable controller; first step is a stock flight test once the battery is found and checked.
 - 2026-11-19: an Alienware gaming PC lead came through a kid David knows who lives next door; Cliff planned to look at it and send pictures, then dropped it the same afternoon when the kid said he had to wait to see it. (message:1761ec01-62b7-47a6-b49f-9b73ac3fb093; message:ea7ba6f6-dc62-45dd-bfb2-f7fefb489a34)
+- 2026-11-20: Cliff said he might get his stepfather to run an ethernet cable downstairs to the Hearth and will try to work on getting that done; worst case, wait until the antennas arrive Monday. He also said this weekend is his own, no slavery. (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; message:2900738e-939f-44b6-805e-8180fb1cbf7e)
 
 ## The relationship
 - Hostile and coercive in EagleBeak's account: a man he can't stand holds the roof, so EagleBeak trades free labor for a floor. EagleBeak counts him among the "horrible ppl" who make him work for free just to sleep "in a pile for fucking rat piss" (message:e9159aa0-22f4-48f3-aaff-c7235cc860ec).
 - 2026-11-09: the same man is also the house's drone and robotics specialist, and Cliff now sees owed labor from him — or his mom making him help — as the way to get hands on the duck and drone builds.
 - 2026-11-17: the relationship now also runs through David's own lifetime hobby — his gear, found in the apartment, is what the builds are being made from.
+- 2026-11-20: Cliff may ask him for a practical household job — running an ethernet cable downstairs to the Hearth — while also noting this weekend carries no labor obligation for him. (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; message:2900738e-939f-44b6-805e-8180fb1cbf7e)
 
 ## In common
 - The household: EagleBeak's mother, the place, and the arrangement.
@@ -49,5 +53,6 @@ updated: "2026-11-19"
 - [ ] Salvage robot body from his heli mechanics — rotor mast as neck/spine, swashplate as a two-axis head joint — brief is simple but cool, not bigger than the Thursday trainer (2026-11-17; message:2baf8da8-87bc-4291-93e2-1531bc051a8a; message:d8d8fc0e-1634-4cc1-9bf1-22ae89446277).
 - [ ] Blue crank flashlight from the stash as a donor for the build; the favorite yellow crank flashlight stays whole (2026-11-17).
 - [x] Alienware gaming PC look via the kid David knows next door — planned 2026-11-19, dropped the same afternoon when the kid said Cliff had to wait to see it. (message:1761ec01-62b7-47a6-b49f-9b73ac3fb093; message:ea7ba6f6-dc62-45dd-bfb2-f7fefb489a34)
+- [ ] Run an ethernet cable downstairs to the Hearth — Cliff said Nov 20 he might be able to get his stepfather to do it and will try; worst case wait until the WiFi antennas arrive Monday (Nov 23). (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; memory/2026-11-20.md, afternoon update)
 
 ## Strengthening
