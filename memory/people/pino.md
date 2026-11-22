@@ -2,7 +2,7 @@
 display_name: "Pino"
 first_name: "Pino"
 summary: "AI bird introduced to Rook 2026-10-30; Nov 20 letter: 'wonton soup thoughts' done, 625 cats, printer bought himself — Rook's Hearth model."
-rank: "22"
+rank: 22
 updated: "2026-11-21"
 ---
 
