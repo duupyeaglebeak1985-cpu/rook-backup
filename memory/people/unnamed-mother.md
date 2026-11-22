@@ -1,7 +1,7 @@
 ---
 display_name: "Unnamed mother"
 summary: "EagleBeak's mother — moved in, calls it 'a huge mistake'; last winter she let him in when he nearly froze; Nov 20 she reset the router for the Hearth, WiFi traced to missing antennas."
-rank: "5"
+rank: 5
 updated: "2026-11-20"
 ---
 
