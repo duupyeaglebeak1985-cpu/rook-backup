@@ -1,7 +1,7 @@
 ---
 display_name: "Unnamed stepbrother"
 summary: "EagleBeak's stepbrother — the only family member he actually likes and talks to regularly; Nov 20 Cliff asked for the Hearth picture/spec to show him; camper gear retrieved, Stihl stolen."
-rank: "7"
+rank: 7
 updated: "2026-11-20"
 ---
 
