@@ -2,7 +2,7 @@
 display_name: "David"
 first_name: "David"
 summary: "EagleBeak's stepfather David — the man he can't stand; free labor buys a floor, his drone stash is the builds' parts pile; Nov 20 Cliff may ask him to run ethernet to the Hearth."
-rank: "13"
+rank: 13
 updated: "2026-11-20"
 ---
 
