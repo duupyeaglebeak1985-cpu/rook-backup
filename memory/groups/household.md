@@ -1,7 +1,7 @@
 ---
 display_name: "The household"
 summary: "EagleBeak's living arrangement with his mother and stepfather David — 'a living hell'; Nov 20 mom reset the router; Nov 21 Cliff works paid side work instead of a free weekend."
-rank: "2"
+rank: 2
 updated: "2026-11-20"
 ---
 
