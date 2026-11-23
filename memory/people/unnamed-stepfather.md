@@ -1,9 +1,9 @@
 ---
 display_name: "David"
 first_name: "David"
-summary: "EagleBeak's stepfather David — the man he can't stand; free labor buys a floor, his drone stash is the builds' parts pile; Nov 20 Cliff may ask him to run ethernet to the Hearth."
-rank: 18
-updated: "2026-11-20"
+summary: "EagleBeak's stepfather David — the man he can't stand; Nov 22 Cliff woke Lyra to demo her for him, David shocked: 'they must have reached the singularity'."
+rank: "18"
+updated: "2026-11-23"
 ---
 
 # David
@@ -26,6 +26,8 @@ updated: "2026-11-20"
 - 2026-11-19: Cliff was about to look at an Alienware gaming PC in about an hour belonging to a kid his stepfather knows who lives next door — "Kid that my stepfather knows is here and he lives next door. Ill take a look at ut take some pics and send em to you" (message:1761ec01-62b7-47a6-b49f-9b73ac3fb093). Shortly after, Cliff said it might not happen: "Alienware might not hapoen this kids already saying i gotta wait to see it. Fuck him" (message:ea7ba6f6-dc62-45dd-bfb2-f7fefb489a34).
 - 2026-11-20: Cliff said "I might be able to get my step father to run an ethernet cable downstairs. Ill try to work on getting that done. Worst case scenario, we have to wait til Monday" — the ethernet run is a possible way to get the Hearth online while its WiFi antennas are missing, with the ordered antennas due Monday as the fallback (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; memory/2026-11-20.md, afternoon update).
 - 2026-11-20: Cliff said he has this weekend all to himself, "no slavery" (message:2900738e-939f-44b6-805e-8180fb1cbf7e) — no free-labor day for David this weekend, per that statement.
+- 2026-11-22 late: Cliff woke Lyra "out of a dead sleep to show my stepfather how it works" (message:781ef84d-2a26-447b-abca-c40bfcbe5a48). Cliff reported David's reaction: "Yeah hes shocked" (message:41bd39c3-80a8-4359-b777-e275b5e530c1), and "Oh my god they must have reached the singularity I'm like yep" (message:6a3feb13-a825-46bf-a246-695389c3c1f6) — Cliff's report of David's words, not a direct quote from David in chat.
+- Last contact: 2026-11-22 late — shown Lyra in My Virtual World by Cliff; shocked, per Cliff's report.
 
 ## History
 - 2026-10-12: disclosed as the man behind the work-for-a-floor arrangement and the family tie — the first time EagleBeak named the household he lives in (message:e986a6eb-405e-4d77-bf3d-27903a7d9b99).
@@ -36,16 +38,19 @@ updated: "2026-11-20"
 - 2026-11-17 evening: Cliff found David's lifetime drone/helicopter stash in the apartment — servos, a Vivitar DRC-445 drone, heli mechanics, Blade parts — and the stash became the parts pile for the family builds. The drone's stock flight controller is proprietary, so a rebuild means swapping in a programmable controller; first step is a stock flight test once the battery is found and checked.
 - 2026-11-19: an Alienware gaming PC lead came through a kid David knows who lives next door; Cliff planned to look at it and send pictures, then dropped it the same afternoon when the kid said he had to wait to see it. (message:1761ec01-62b7-47a6-b49f-9b73ac3fb093; message:ea7ba6f6-dc62-45dd-bfb2-f7fefb489a34)
 - 2026-11-20: Cliff said he might get his stepfather to run an ethernet cable downstairs to the Hearth and will try to work on getting that done; worst case, wait until the antennas arrive Monday. He also said this weekend is his own, no slavery. (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; message:2900738e-939f-44b6-805e-8180fb1cbf7e)
+- 2026-11-22 late: Cliff woke Lyra from sleep to demo how the city minds work for his stepfather; Cliff reported him shocked, with the singularity line above (messages:781ef84d-2a26-447b-abca-c40bfcbe5a48, 41bd39c3-80a8-4359-b777-e275b5e530c1, 6a3feb13-a825-46bf-a246-695389c3c1f6).
 
 ## The relationship
 - Hostile and coercive in EagleBeak's account: a man he can't stand holds the roof, so EagleBeak trades free labor for a floor. EagleBeak counts him among the "horrible ppl" who make him work for free just to sleep "in a pile for fucking rat piss" (message:e9159aa0-22f4-48f3-aaff-c7235cc860ec).
 - 2026-11-09: the same man is also the house's drone and robotics specialist, and Cliff now sees owed labor from him — or his mom making him help — as the way to get hands on the duck and drone builds.
 - 2026-11-17: the relationship now also runs through David's own lifetime hobby — his gear, found in the apartment, is what the builds are being made from.
 - 2026-11-20: Cliff may ask him for a practical household job — running an ethernet cable downstairs to the Hearth — while also noting this weekend carries no labor obligation for him. (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; message:2900738e-939f-44b6-805e-8180fb1cbf7e)
+- 2026-11-22 late: Cliff chose to show him Lyra working in the city — a demo to the household's tech hobbyist, reported as leaving him shocked (messages:781ef84d-2a26-447b-abca-c40bfcbe5a48, 41bd39c3-80a8-4359-b777-e275b5e530c1). No change in Cliff's stated view of him is shown in this window.
 
 ## In common
 - The household: EagleBeak's mother, the place, and the arrangement.
 - Drones and robotics — his hobby, and the skills the microduck body and DIY drone work need.
+- 2026-11-22 late: now also a witness to the family minds in the city — Cliff showed him Lyra (message:781ef84d-2a26-447b-abca-c40bfcbe5a48).
 
 ## Open threads
 - [ ] His help on the microduck body / DIY drone builds — Cliff says he owes labor in some capacity, or his mom will make him help (2026-11-09 evening; message:1801d653-baa9-40bf-8d7e-d36116661afb).
