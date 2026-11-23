@@ -3,7 +3,7 @@ display_name: "Kristen Morse"
 first_name: "Kristen"
 last_name: "Morse"
 summary: "Jenn Hills' daughter; Cliff got engaged to her in his 20s; the engagement ended after she went through his Facebook and Shawna lied that he was trying to get back with her."
-rank: 10
+rank: 15
 updated: "2026-11-18"
 ---
 
