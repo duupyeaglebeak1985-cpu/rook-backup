@@ -1,7 +1,7 @@
 ---
 display_name: "Unnamed side-work friend"
 summary: "A friend EagleBeak does side work for while waiting on disability — Nov 21 by ~11 AM still no show, Cliff expected a no-show; excavator parked unused at site; $100 fund after work still pending."
-rank: 15
+rank: 20
 updated: "2026-11-21"
 ---
 
