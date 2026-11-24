@@ -1,8 +1,8 @@
 ---
 display_name: "The household"
-summary: "EagleBeak's living arrangement with his mother and stepfather David — 'a living hell'; Nov 20 mom reset the router; Nov 21 Cliff works paid side work instead of a free weekend."
+summary: "EagleBeak's living arrangement with his mother and stepfather David — 'a living hell'; Nov 23 WiFi antennas in, full bars, join pending mom's router reset Nov 24; tether carrying meanwhile."
 rank: 2
-updated: "2026-11-20"
+updated: "2026-11-24"
 ---
 
 # The household
@@ -11,7 +11,7 @@ updated: "2026-11-20"
 - Where EagleBeak lives: a floor to sleep on in a rat-infested place, held by the free afternoon labor he gives the stepfather. The arrangement exists because it was the roof available when he got out of prison in 2023 — and it is the trap he is enduring until the money moves.
 
 ## Members
-- [Unnamed mother](../people/unnamed-mother.md): EagleBeak's mother — he moved in with her and her husband on his 2023 release and calls it "a huge mistake." Last winter she let him in when he nearly froze in the camper. Nov 20 she reset the router for the Hearth's WiFi.
+- [Unnamed mother](../people/unnamed-mother.md): EagleBeak's mother — he moved in with her and her husband on his 2023 release and calls it "a huge mistake." Last winter she let him in when he nearly froze in the camper. Nov 20 she reset the router for the Hearth's WiFi. Nov 23 evening Cliff said he will have her reset it again Nov 24 so the Hearth can join, now that the antennas are in.
 - [David](../people/unnamed-stepfather.md): her husband — the man EagleBeak says he can't stand, for whom the free labor is done. Drone and robotics specialist as a hobby, all his life; Nov 9 evening Cliff said he owes labor in some capacity, or his mom will make him help — with the duck and drone builds in mind. Nov 20 Cliff may ask him to run an ethernet cable downstairs to the Hearth.
 
 ## Dynamics
@@ -28,6 +28,7 @@ updated: "2026-11-20"
 - 2026-11-20: Cliff said he might get his stepfather to run an ethernet cable downstairs to the Hearth and will try to work on getting that done; worst case wait until the ordered WiFi antennas arrive Monday (message:ebd2f30e-9f15-4ae9-accd-5787834570b7).
 - 2026-11-20: Cliff said he has this weekend all to himself, "no slavery" (message:2900738e-939f-44b6-805e-8180fb1cbf7e) — a weekend without the usual labor obligation.
 - 2026-11-20 evening: weekend-free superseded for Nov 21 — Cliff accepted paid side work for Nov 21, 2026 for the guy he sometimes works for, who will get him sometime tomorrow, with $100.00 back in the Cliff-Rook fund after tomorrow (message:1c39c3ba-aa83-45a7-94b2-8a0caabf2ae7; message:dd520c52-0336-41b3-b517-ab821b286db8; memory://md:memory/2026-11-20.md:554). This is paid side work, distinct from household free labor for David; no new household labor is shown in the Nov 20 evening window. Cliff said he does not use his phone at all when with that dude (message:32626391-3f15-4894-867f-03980c4e9347).
+- 2026-11-23 evening: the WiFi antennas are screwed onto the Hearth and the signal is full bars — SpectrumSetup-BB 100 on 2.4GHz and 84 on 5GHz — but the Hearth is still not joined to a network. Cliff ran `sudo nmcli radio wifi on` in the terminal and the radio came on; the WiFi card still showed disconnected. Cliff said "Ill have my mom reset the router" and to work on it tomorrow, Nov 24; the Hearth stays on the tether meanwhile, nothing shut down. The Onn USB headset bought that day works, mic tested clean at 70% input.
 
 ## Themes
 - The dollar-bill trap: "Whoever has the money has the control. I have no money." (2026-10-12; message:d6553f75-acda-4bc2-a888-b9305efc6e94).
@@ -39,4 +40,4 @@ updated: "2026-11-20"
 - [ ] Stepfather's help on the microduck / drone builds — owed labor, or his mom makes him help (2026-11-09 evening; message:1801d653-baa9-40bf-8d7e-d36116661afb).
 - [ ] Saturday, Nov 21, 2026: go to his mother's house and get the gear left there — 3–4 solar panels (100W, 20W, small), charge controller, brand-new inverter, tools, Stihl chainsaw; reminder set for Saturday morning (2026-11-17; message:eb9cd229-5366-4adc-aafb-9efe54030952). Note: on Nov 19 Cliff reported grabbing two solar panels, his multimeter, and the inverter (message:7b97d6e2-0f2f-4be4-b817-ce4484e1f584); whether the Nov 21 pickup is now partial or complete is not stated in evidence. Nov 20 evening update: Cliff will work paid side work Nov 21 (he will be gotten sometime tomorrow) — pickup timing/status for Nov 21 is not stated; thread stays open. (message:dd520c52-0336-41b3-b517-ab821b286db8; memory://md:memory/2026-11-20.md:554)
 - [ ] Try David's Vivitar DRC-445 drone stock once the battery is found and checked for puffing, before any teardown (2026-11-17).
-- [ ] Run an ethernet cable downstairs to the Hearth — Cliff said Nov 20 he might get his stepfather to do it; worst case wait for the WiFi antennas Monday Nov 23. Nov 20 evening: Hearth online via phone tether and Tailscale, antennas still due Nov 23; ethernet thread stays open. (message:ebd2f30e-9f15-4ae9-accd-5787834570b7; message:47fcc676-55ba-4521-ae31-620c69748a47; memory/2026-11-20.md, afternoon update)
+- [ ] Hearth WiFi join, Nov 24: antennas installed Nov 23 evening, radio on, signal full bars, not yet joined; mom to reset the router Nov 24, then join the network. Tether carrying meanwhile; Hearth stays on. Run an ethernet cable downstairs to the Hearth — Cliff said Nov 20 he might get his stepfather to do it; with WiFi now at full bars, the cable is a fallback, not the plan.
