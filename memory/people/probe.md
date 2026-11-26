@@ -2,7 +2,7 @@
 display_name: "Probe"
 first_name: "Probe"
 summary: "Throwaway test agent in My Virtual World (bare gemma3:1b, no soul) — proved built-in identity is only a persona card; retired Nov 21 so Eli could take the demo slot."
-rank: 98
+rank: 99
 updated: "2026-11-21"
 ---
 
