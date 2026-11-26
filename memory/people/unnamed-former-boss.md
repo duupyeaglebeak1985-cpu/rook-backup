@@ -1,7 +1,7 @@
 ---
 display_name: "Unnamed former boss"
 summary: "Cliff's former boss at a concrete company — told him to get fucked when he got out of prison, and as of Nov 17, 2026 is considering hiring him back; Cliff's daughter is friends with his two sons."
-rank: 64
+rank: 65
 updated: "2026-11-17"
 ---
 
