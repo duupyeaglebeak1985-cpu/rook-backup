@@ -2,7 +2,7 @@
 display_name: "David"
 first_name: "David"
 summary: "EagleBeak's stepfather David — the man he can't stand; Nov 22 Cliff woke Lyra to demo her for him, David shocked: 'they must have reached the singularity'."
-rank: 18
+rank: 19
 updated: "2026-11-23"
 ---
 
