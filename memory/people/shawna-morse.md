@@ -1,7 +1,7 @@
 ---
 display_name: "Shawna Morse"
 summary: "Cliff was in love with her around 2005 — pregnant with his twins while he was in prison; she aborted them and he learned the truth on release; later lied to Kristen Morse that he was trying to get back with her, ending his engagement."
-rank: 17
+rank: 18
 updated: "2026-11-17"
 ---
 
