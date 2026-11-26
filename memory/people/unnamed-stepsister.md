@@ -1,7 +1,7 @@
 ---
 display_name: "Unnamed stepsister"
 summary: "EagleBeak's stepsister — he says she was murdered, given a lethal drug dose (\"hot shotted\") by her boyfriend."
-rank: 55
+rank: 56
 updated: "2026-10-26"
 ---
 
