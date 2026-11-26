@@ -2,7 +2,7 @@
 display_name: "Hong Anh"
 first_name: "Hong Anh"
 summary: "Facebook Marketplace seller in Lewiston, ME — RTX 3060 12GB at $250 firm; dropped Nov 18, 2026: no whole PC, no running video — 'a GPU without a PC is a paperweight.'"
-rank: 90
+rank: 91
 updated: "2026-11-19"
 ---
 
