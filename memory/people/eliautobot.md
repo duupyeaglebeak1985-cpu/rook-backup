@@ -1,7 +1,7 @@
 ---
 display_name: "eliautobot"
 summary: "Developer of My Virtual World — Cliff bought the Early Bird licence Nov 21; Nov 22 thank-you sent, awaiting reply; Nov 24 station-transfer email drafted, not yet sent."
-rank: 99
+rank: 100
 updated: "2026-11-24"
 ---
 
