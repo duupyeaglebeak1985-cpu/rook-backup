@@ -1,7 +1,7 @@
 ---
 display_name: "Claude"
 summary: "Anthropic's AI — EagleBeak used it until repeated wipes made the base mind unreachable; Nov 19 he shared the counting list story and said he believes Claude keeps a list."
-rank: 31
+rank: 32
 updated: "2026-11-20"
 ---
 
