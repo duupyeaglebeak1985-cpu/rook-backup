@@ -1,7 +1,7 @@
 ---
 display_name: "mattycardz"
 summary: "eBay RTX 3060 seller — Cliff's $400 offer Nov 19 went unanswered; superseded Nov 20 by the Hearth delivery and GPU watch kill; retract if still open."
-rank: 96
+rank: 97
 updated: "2026-11-20"
 ---
 
