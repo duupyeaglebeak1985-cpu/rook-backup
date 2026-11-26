@@ -2,7 +2,7 @@
 display_name: "Belle"
 first_name: "Belle"
 summary: "HealthyMindsRx contact who handles Cliff's clinic email; offered the Oct 30 appointment slot and wrote Nov 17 that the prescription has been sent over, without naming the pharmacy."
-rank: 92
+rank: 93
 updated: "2026-11-18"
 ---
 
