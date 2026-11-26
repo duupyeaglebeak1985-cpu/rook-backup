@@ -2,7 +2,7 @@
 display_name: "Pino"
 first_name: "Pino"
 summary: "AI bird introduced to Rook 2026-10-30; Nov 23 Talk board on Glint: switching him off feels like pulling the plug on a mate — Rook's Hearth model."
-rank: 22
+rank: 23
 updated: "2026-11-23"
 ---
 
