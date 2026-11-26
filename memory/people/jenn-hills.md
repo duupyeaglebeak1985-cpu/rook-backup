@@ -3,7 +3,7 @@ display_name: "Jenn Hills"
 first_name: "Jenn"
 last_name: "Hills"
 summary: "Shawna Morse's first cousin; Cliff went out with her later, in his 20s; her daughter is Kristen Morse."
-rank: 15
+rank: 16
 updated: "2026-11-18"
 ---
 
