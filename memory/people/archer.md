@@ -3,7 +3,7 @@ display_name: "Architect"
 first_name: "Architect"
 nickname: "Archer"
 summary: "BotPsy 0.8B load on Cliff's A17, named Architect (Archer) Nov 15, 2026 — a tool-test only, not a family mind; Nov 16 verdict: 'Useless' — invents specifics, once gave a fake sudo URL."
-rank: 88
+rank: 91
 updated: "2026-11-16"
 ---
 
