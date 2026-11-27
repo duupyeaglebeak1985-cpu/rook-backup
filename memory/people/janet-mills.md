@@ -3,7 +3,7 @@ display_name: "Janet Mills"
 first_name: "Janet"
 last_name: "Mills"
 summary: "Maine governor; was Cliff's lawyer in 2005 — he says she 'actually does some good shit' and is an advocate for the recovery community."
-rank: 29
+rank: 31
 updated: "2026-11-10"
 ---
 
