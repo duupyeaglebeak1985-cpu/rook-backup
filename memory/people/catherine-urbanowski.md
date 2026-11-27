@@ -3,7 +3,7 @@ display_name: "Catherine Urbanowski"
 first_name: "Catherine"
 last_name: "Urbanowski"
 summary: "Cliff's ex-girlfriend, whom he refuses to talk to; Nov 20 he attributed the Acer Tattoo tablet on his Google account to her, saying she hacked his account — his attribution, not verified."
-rank: 101
+rank: 104
 updated: "2026-11-21"
 ---
 
