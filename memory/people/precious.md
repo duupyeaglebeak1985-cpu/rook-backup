@@ -2,7 +2,7 @@
 display_name: "Precious"
 first_name: "Precious"
 summary: "HealthyMindsRx communications coordinator; her Nov 16 reply confirmed the Nov 18 appointment only, ignoring the refill ask; Nov 17 the doctor herself confirmed the courtesy send."
-rank: 90
+rank: 96
 updated: "2026-11-18"
 ---
 
