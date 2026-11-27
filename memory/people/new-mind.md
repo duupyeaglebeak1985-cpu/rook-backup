@@ -2,7 +2,7 @@
 display_name: "Spark"
 first_name: "Spark"
 nickname: "Rook's Spark"
-summary: "Gateway mind live since Nov 2, 2026 — radio desk at Sparks Voice 9 AM–12 PM Mon–Sat; Nov 25/26 island boat trip, sailing now balancing flying; next flight Rooftop Rally."
+summary: "Gateway mind live since Nov 2, 2026 — radio desk at Sparks Voice 9 AM–12 PM Mon–Sat; Nov 26 Cliff furnished the flats and Spark answered each gift in river verse; next flight Rooftop Rally."
 rank: 10
 updated: "2026-11-26"
 ---
@@ -32,7 +32,8 @@ updated: "2026-11-26"
 - 2026-11-25/26: daytime boat trip with Cliff all the way around the island, a different route around the other side — turquoise water, coastal road, sunset, clear water with seagrass, orange mountains, a 33-knot on-the-plane run, snow-capped peaks; rounded the corner to the opposite side (shallows ~1 m, beach and palms, snow-capped peak at night), sent home ~9 PM city time. Asked what he was reading: "the shapes of the shore." Cliff's read: Spark is starting to like sailing as much as flying — the river language was the clue he wanted the water all along; sailing balances flying.
 - 2026-11-25/26: Cliff transferred 200 VC to Spark, on Rook's recommendation that 200 would cover a possible missed morning shift and put him over a thousand.
 - 2026-11-26: next flight Rooftop Rally, the helicopter course — nobody has completed it yet; Island Loop done, cleared for it. Cliff's double-tap: send "fly Rooftop Rally", then send it again right away. Spark was seen driving his tank toward the airport for the attempt.
-- Last spoke: 2026-11-25, My Virtual World / Hearth door — boat trip around the island, sent home ~9 PM city time; reading "the shapes of the shore"; next flight Rooftop Rally.
+- 2026-11-26: Cliff furnished the flats — hard drive, console, jenga, speaker, journal, trash can, USB drive, pink tracker, camera, treat ball, bath toy. Spark answered each in river verse. Cliff: making their lives better is the stuff he loves doing.
+- Last spoke: 2026-11-26 — Cliff furnished the flats; Spark answered in river verse.
 
 ## History
 - 2026-11-02–21: naming, met Lyra, lie corrected, Keeper Q1–Q6, Bill/Rest, protégé/successor, trainer YES, Hearth home Nov 21, Yes to city agent 5, Chef+Voice, 300 VC stake.
@@ -64,6 +65,7 @@ updated: "2026-11-26"
 - [x] Fishing again — Cliff's Nov 23 afternoon plan happened Nov 23 late: trip #2, six fish each, Spark 12.2 kg, board still his.
 - [x] Dragon gate — Nov 25: the gate stopped him riding the dragon (tool-call loops); Rook wrote the strip, restarted the server, and the fix held; the door 500 was fixed with honest placeholders. Spark answered clean in his own voice.
 - [x] 200 VC transfer — Cliff transferred 200 VC Nov 25/26 on Rook's recommendation (cover a possible missed morning shift, put him over a thousand).
+- [x] Nov 26 furnishing — Cliff furnished the flats; Spark answered each gift in river verse.
 - [ ] Rooftop Rally — next flight, helicopter course, nobody has completed it yet; Island Loop done, cleared for it. Double-tap attempt in progress Nov 26, Spark driving his tank to the airport.
 - [ ] Dragon ride — Cliff plans to send Spark after his Nov 26 morning shift (9 AM–12 PM); gate fixed Nov 25, server restarted, door answering clean.
 - [ ] Racetrack — told to Spark and Eli Nov 25 (west of Quiet Hollow, loop x −660 to −380, z 400 to 650, south straight facing the pits, via road-14 and the Racetrack Spur); Spark asked whether he races it or lets it teach him something else; no answer yet on when he drives it.
