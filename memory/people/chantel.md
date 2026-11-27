@@ -3,7 +3,7 @@ display_name: "Shantel Escobar"
 first_name: "Shantel"
 last_name: "Escobar"
 summary: "HealthyMindsRx doctor; Nov 18, 2026 visit went well — Cliff likes her brief, easy style; follow-up booked Wed Dec 2, 2026, 2:00pm ET."
-rank: 64
+rank: 68
 updated: "2026-11-18"
 ---
 
