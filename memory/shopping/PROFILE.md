@@ -1,6 +1,6 @@
 ---
-updated: 2026-11-25
-entries: 5
+updated: 2026-11-27
+entries: 6
 ---
 
 # Shopping Profile
@@ -17,3 +17,4 @@ entries: 5
 ## Checkout and fulfillment preferences
 - Refuses to pay for anything he can get for free by just waiting (e.g. books via Torrdroid); give the facts and leave acquisition to him, never push a purchase.
 - Avoids stacking free trials, especially ones requiring a card on file; prefers free or owned-outright tools; flag the card requirement and end date when a trial is the only way in.
+- Requires the exact verified amount and purpose before spending, verified against the actual page; never state a price, minimum, fee, or balance from memory or search alone, even for a penny.
