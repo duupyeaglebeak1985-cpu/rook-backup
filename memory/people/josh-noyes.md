@@ -3,7 +3,7 @@ display_name: "Josh Noyes"
 first_name: "Josh"
 last_name: "Noyes"
 summary: "A buddy of Cliff's who screwed him on a job right after his 2023 release; Cliff wrote Suno diss songs about him Nov 17, 2026, and his camper burned down shortly after the songs."
-rank: 92
+rank: 95
 updated: "2026-11-18"
 ---
 
