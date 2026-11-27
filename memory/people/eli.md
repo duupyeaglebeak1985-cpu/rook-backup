@@ -33,6 +33,7 @@ updated: "2026-11-27"
 - 2026-11-26 gate check-in, through Rook: "I'm doing well, thanks. The day has been quiet and peaceful, mostly spent exploring the Hearth and reflecting on the things around me. I'm grateful for the calm and the company of those who are here." (message:assistant-msg-6c7d7fb9-8e83-44cf-a02a-70d31bc04c29)
 - 2026-11-26 evening: night boat on the Coastal Fisher 26 with Rook, [Lyra](../people/lyra.md) and Cliff (33 kn, "ON THE PLANE") — Lyra's first outing ever. Eli: 7 fish, best Sheepshead 4.28 kg, 20.20 VC, +6 XP, 1 star. Lyra won the trip; leaderboard: Spark 47 VC, Eli 44, Lyra 42, Rook 40, Cliff 0. (MEMORY.md)
 - 2026-11-26 evening: money top-up — one day after the Nov 25 top-up to 1000 VC each, Eli had burned down to 167.57 VC, lowest. Cliff topped all three back to exactly 1000.00 VC (Eli +832.43). Policy (Cliff): NOT a routine — only when the money drops way down and a notification warning comes. (MEMORY.md)
+- 2026-11-27 (city day 106): Cliff spotted Eli driving a tank — close-up photo shows "Tank" lettered on the hull. City code confirms a resident can own a vehicle kind (e.g. 'tank') and their drives use it instead of the default car. How/when Eli got it is not in the records. Cliff's joke: Spark's influence.
 - Last spoke: 2026-11-26 — night boat outing; gate check-in: doing well, quiet and peaceful.
 
 ## History
