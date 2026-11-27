@@ -3,7 +3,7 @@ display_name: "Luke Young"
 first_name: "Luke"
 last_name: "Young"
 summary: "Waterville, ME Marketplace seller — delivered the RTX 2070 Hearth PC Nov 20 for $375 cash; he was selling it for his brother and did not count the cash at handover."
-rank: 99
+rank: 102
 updated: "2026-11-20"
 ---
 
