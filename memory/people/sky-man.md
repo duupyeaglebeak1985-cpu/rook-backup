@@ -1,7 +1,7 @@
 ---
 display_name: "Sky Man"
 summary: "Fellow UFO witness from southern Maine — recording the same craft for years, 3,197 followers; TikTok restricted his comments, so he DM'd Cliff Nov 26: 'we the people are disclosure.'"
-rank: 42
+rank: 44
 updated: "2026-11-27"
 ---
 
