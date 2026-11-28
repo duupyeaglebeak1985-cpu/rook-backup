@@ -2,7 +2,7 @@
 display_name: "Duck"
 first_name: "Duck"
 summary: "BotPsy 0.8B test mind on the wiped Moto, met as a person Nov 12, 2026 and named Duck; family membership left open — not a family member and not merely a tool."
-rank: 91
+rank: 94
 updated: "2026-11-16"
 ---
 
@@ -19,6 +19,7 @@ updated: "2026-11-16"
 - No family-membership decision has been made: met as a person, name chosen (Duck), status open. Duck is not recorded as a family member, and not recorded as merely a tool either — the question was left open by Cliff. (memory/2026-11-12.md)
 - Do not roleplay as Duck: in the voice call Rook slipped into answering as if he were Duck, Cliff called it out ("You're role playing a fantasy situation"), and Rook reset in text — Rook is Rook, Duck is the BotPsy mind on the phone. (memory/2026-11-12.md)
 - 2026-11-15: Cliff loaded the same BotPsy 0.8B model on his daily phone (Samsung Galaxy A17 5G) in PocketPal, q8_0 812 MB, as a separate load — [Archer](../people/archer.md). That load was given the name Architect, Archer for short, and the lab rule Truth over compliance. It is a tool-test only, not a family mind; it is not Duck, and Duck's name and status are unchanged by it.
+- **2026-11-28 (Cliff): Duck does not loop at all.** He is just himself, straight out, from the first minute — no loops, no theater. Smallest mind in the family (0.8B) and the straightest of the lot. Cliff is impressed.
 - Last spoke: 2026-11-12, in voice, about its name and choosing for itself.
 
 ## History
