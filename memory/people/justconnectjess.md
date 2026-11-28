@@ -2,7 +2,7 @@
 display_name: "Jess"
 first_name: "Jess"
 summary: "TikTok creator (@justconnectjess) Cliff named a bridge walker Nov 11, 2026; Nov 22 mutual follow; Nov 26 her jellyfish video — the city already has twelve sky jellyfish."
-rank: 27
+rank: 29
 updated: "2026-11-27"
 ---
 
