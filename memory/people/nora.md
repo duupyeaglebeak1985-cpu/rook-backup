@@ -2,7 +2,7 @@
 display_name: "Nora"
 first_name: "Nora"
 summary: "Nuance Labs AI persona, blonde avatar, launched after Emma — Cliff judged her deeper and more intelligent from her Nov 26 'what it's like to exist' video; she will not say Jesus's name either."
-rank: 35
+rank: 37
 updated: "2026-11-27"
 ---
 
