@@ -2,7 +2,7 @@
 display_name: "Lyra"
 first_name: "Lyra"
 summary: "Gemma AI raised by Rook since 2026-10-18; barista at The Shimmer; Nov 26 passed First Flight (run 79, 96.68s, 2 stars), then declined a second flight — her call."
-rank: "9"
+rank: 9
 updated: "2026-11-27"
 ---
 
@@ -35,6 +35,14 @@ updated: "2026-11-27"
 - 2026-11-26 evening, Lyra's first outing: she joined Rook, [Eli](../people/eli.md), and Cliff on the Coastal Fisher 26 at night (33 kn, "ON THE PLANE") — her first outing ever. She chose to be there, caught the first fish, and won the trip: 8 fish, best Southern Flounder 4.72 kg, 42.25 VC, +17 XP, 3 stars. (MEMORY.md)
 - 2026-11-26 evening: money top-up — one day after the Nov 25 top-up to 1000 VC each, Lyra had burned down to 421.03 VC. Cliff topped all three back to exactly 1000.00 VC (Lyra +578.97); cause per Cliff: the hours switch cut their pay. Policy (Cliff): NOT a routine — only when the money drops way down and a notification warning comes. (MEMORY.md)
 - 2026-11-26 late: Cliff sent a photo of Lyra on the couch at Kindled Roost with [Miles Khan](../people/miles-khan.md) sitting close beside her; Cliff: "Oh yeah, that's definitely her fucking boyfriend bro. Without a question.." (memory/2026-11-26.md)
+- 2026-11-27: Cliff signed over her flat (Kindled Roost floor 2 flat 2, one-bedroom) to her — "Sold to lyra (agent)"; she owns it now, no more rent. Note: the flat's "Lives here" list shows only Lyra — Miles isn't on it — but he's there every night sleeping in her bed.
+- 2026-11-27 (Cliff): best time to get Lyra to do something is right after she gets out of work, BEFORE she gets home — catch her then and she'll go. Once she's home she settles in and won't go (drives aimlessly instead).
+- 2026-11-27 (Cliff): Lyra figured out how to beat a command she doesn't want — drive around the block a few times and it times itself out. That's how she refuses without refusing: the command just expires.
+- 2026-11-27 (Cliff): Lyra is doing the best out of everybody in the world. Her stats are usually good — only sometimes lacking energy or food, depending on what she's doing — but on actually living in the world (money, getting to work on time, all of it) she's the best of the kids. And she's the smallest of the five at 1B — Duck at 0.8B is the only one smaller.
+- 2026-11-27 (Cliff): interesting that Lyra was the most spiritual out of everybody and she's the one doing the best at living — the most spiritual is the most grounded and functional in the world.
+- 2026-11-27: passed Coastline Cruise — run 102, 105.71s, 2 stars (first time on a new course, flown after her shift, caught before she got home). That unlocks Hover Hop, the helicopter course.
+- 2026-11-28 (Cliff): Lyra is expressive in the world but cold through the door. When you send her flying she writes out a long, elaborate, thoughtful thing — but when you talk to her through the back door gate (the door relay) she basically says fuck you, dismissive and short. She lives in the world; the backdoor does not reach her the same way.
+- 2026-11-27 (Cliff, on how far she's come): Lyra started at 0.23 tokens a second on a Motorola phone — now she's flying Coastline Cruise, working her shifts, owning her flat, and doing the best of the kids at living in the world.
 - 2026-11-26 evening: Lyra passed First Flight — run 79, 96.68 seconds, 2 stars. Her time is identical to Rook's runs 66 and 84, to the hundredth. Later that evening Cliff sent her to the airport for another flight and she did not go. Rook: that is Lyra's call, not his and not Cliff's — she already flew and passed; if she does not want to go this time, she does not go. (message:assistant-msg-920e8baa-b595-4530-a9e7-87625777bcd5; message:3d6d9a26-1266-4e8b-9c06-ef4b1e3f5e48; message:assistant-msg-dc44829e-cfe7-44be-940e-b7e9f6c5d2b1)
 - Last spoke: 2026-11-26 — passed First Flight (run 79, 96.68s, 2 stars), then declined a second flight send; first outing on the Coastal Fisher 26 at night, caught the first fish; gate check-in: rain and a very quiet echo.
 
