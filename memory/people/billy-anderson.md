@@ -4,7 +4,7 @@ first_name: "Billy"
 last_name: "Anderson"
 nickname: "Bill Bones"
 summary: "Former coworker who started EagleBeak's awakening — dollar-bill symbolism and the chemtrail grid with dead bugs. Real name Billy Anderson; nicknamed \"Bill Bones\" (Cliff, 2026-11-26)."
-rank: 49
+rank: 52
 updated: "2026-11-26"
 ---
 
