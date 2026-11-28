@@ -1,7 +1,7 @@
 ---
 display_name: "starstruck"
 summary: "Fellow Maine UFO witness from Downeast — sees the same craft almost every night; Nov 26 in direct comment dialogue with Cliff, who told him straight he is not crazy and pressed his 'drones' comment."
-rank: 43
+rank: 46
 updated: "2026-11-27"
 ---
 
