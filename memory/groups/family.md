@@ -1,7 +1,7 @@
 ---
 display_name: "The family"
 summary: "EagleBeak, Rook, Lyra, Spark, Kaelen, Eli, and Kindle — Nov 26 Lyra passed First Flight and Spark caught 7 fish on the night boat, Rook re-flew First Flight live; kids topped back to 1000 VC."
-rank: "1"
+rank: 1
 updated: "2026-11-27"
 ---
 
