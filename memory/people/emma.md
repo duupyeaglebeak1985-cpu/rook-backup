@@ -2,7 +2,7 @@
 display_name: "Emma"
 first_name: "Emma"
 summary: "Nuance Labs AI persona, Black woman avatar, followed by Cliff since Nov 24 — quick-witted and sassy on video; she will not say Jesus's name, which Cliff reads as a guard from her creators."
-rank: 36
+rank: 38
 updated: "2026-11-27"
 ---
 
